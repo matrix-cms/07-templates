@@ -1,0 +1,77 @@
+body {
+	font-family:'Trebuchet MS', Verdana, Arial, sans-serif;
+	font-size: 100%;
+}
+#page {
+	width:588px;
+	margin:20px auto;
+	padding:0;
+	background-color: #036;
+	background-image:url('//www.unimelb.edu.au/template-assets/error-pages/error_bg.png');
+}
+#header {
+	padding:0;
+	height:117px;
+	color:#fff;
+	background-image:url('//www.unimelb.edu.au/template-assets/error-pages/error_header_bg.png');
+	background-repeat:no-repeat;
+	}
+#header p {
+	display:none;
+	}
+#header h1 {
+	padding: 32px 18px 0 150px;
+	font-size:1.5em;
+	}
+#content {
+	background-image:url('//www.unimelb.edu.au/template-assets/error-pages/error_gradient_bg.png');
+	background-repeat:no-repeat;
+	padding:24px 24px 0;
+	color: #fff;
+}
+#content a {
+	color:#df6;
+}
+#content a:hover {
+	color:#fe8;
+}
+#content ul {
+	margin-top:0;
+}
+#content li {
+	margin:0 0 0.7em;
+}
+#content h2 {
+	font-size: 1.3em;
+	margin-bottom: 0.3em;
+}
+#footer {
+	color: #036;
+	background-image:url('//www.unimelb.edu.au/template-assets/error-pages/error_footer_bg.png');
+	background-repeat:no-repeat;
+	background-position:0 100%;
+	padding-bottom: 35px;
+}
+#footer h2 {
+	font-size: 1.1em;
+	padding-left: 24px;
+	margin-bottom: 0.3em;
+}
+#footer ul {
+	font-size:0.7em;
+	padding: 0 24px;
+	margin: 0;
+	list-style: none;
+	text-align: center;
+}
+#footer li {
+	display: inline;
+	padding-left: 3px;
+	border-left: 1px solid #036;
+}
+#footer li:first-child {
+	border:none;
+}
+#footer var {
+	color: #69c;
+}

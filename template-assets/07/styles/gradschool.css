@@ -1,0 +1,20 @@
+#top.gradschool #homelink
+{
+	background-image: url("http://www.unimelb.edu.au/template-assets/07/images/logo-sub-nobar.gif");
+}
+#top.gradschool h1
+{
+	margin-left:190px;
+}
+#top.gradschool .gs_link
+{
+	display: block;	position: absolute;	top: -100px;
+	left: 1028px;
+	width: 48px;
+	height: 145px;
+	font-size: 1px;
+	padding-bottom: 100px;
+	background-image: url("http://www.unimelb.edu.au/template-assets/07/images/gs-ribbon.png");
+	background-repeat: no-repeat;
+	background-position: 0 100%;
+}

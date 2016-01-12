@@ -1,0 +1,39 @@
+/* this style sheet contains rules for ie win versions earlier than 7 */
+
+#subhome #top h1 {
+	background-image: none;
+}
+
+#top #global-bar {
+	background-image: url("http://www.unimelb.edu.au/template-assets/07/images/global_bar_bg.gif");
+}
+
+
+#internal #top #global-bar {
+	background-image: url("http://www.unimelb.edu.au/template-assets/07/images/i_search_bg.gif");
+}
+
+
+#nav {
+	margin-left: 9px;
+}
+
+#nav div {
+	margin-bottom: 12px;
+	width: 100%;
+}
+
+#nav div.icon {
+	margin: 0 6px 0 0;
+	background-position: 0 4px;
+	width: 47%;
+	height: 78px;
+}
+
+#home-content {
+	background-image: url("http://www.unimelb.edu.au/template-assets/07/images/white-cnr-ll.gif");
+}
+
+#menu span.bullet {
+	padding-right: 0px;
+}

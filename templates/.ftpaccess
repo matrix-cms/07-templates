@@ -1,0 +1,14 @@
+<Limit READ WRITE DIRS>
+        AllowUser pmaslen
+        AllowUser lbd
+        AllowUser emvb
+        AllowUser markg
+        AllowUser cvn
+        AllowUser davidos
+        AllowUser guys
+        AllowUser syoung
+        AllowUser msukha
+        AllowUser brule
+</Limit>
+AllowOverwrite yes
+

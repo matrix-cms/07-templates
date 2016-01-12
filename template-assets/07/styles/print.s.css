@@ -1,0 +1,136 @@
+.skiplink, #homelink, #global-bar, #quicklinks, #breadcrumbs, #menu, .topofpage, #metalinks, #legal { display: none; }
+
+body
+{
+	font-family: "Trebuchet MS", Arial, Helvetica, Geneva, sans-serif;
+	font-size: 80%;
+}
+
+#top
+{
+	border-bottom: thin solid #666;
+	background: url("https://www.unimelb.edu.au/template-assets/07/images/print-logo.gif") no-repeat;
+	height: 72pt;
+}
+
+#top h1
+{
+	margin-left: 72pt;
+	color: #036;
+}
+
+#top h1 span
+{
+	display: block;
+	font-size: 0.7em;
+}
+
+#top h1 a
+{
+	color: #036;
+	text-decoration: none;
+}
+
+#top li
+{
+	list-style:none;
+}
+
+#sidebar {
+	background-image:url("https://www.unimelb.edu.au/template-assets/07/images/sidebar_bg.png");
+	border-left:1px solid #CCCCCC;
+	float:right;
+	margin:12pt 0pt 6pt 12pt;
+	padding:12pt;
+	width:25%;
+}
+
+#content
+{
+	margin-left: 0;
+	padding: 24pt 0 0 0;
+	font-size: 10pt;
+}
+
+#content a
+{
+	text-decoration: none;
+	border-bottom: thin dotted blue;
+}
+
+#content a:after
+{
+	content: ' - ' attr(href);
+	font-size: 70%;
+}
+
+#content.noprinturls a:after
+{
+	content: '';
+}
+
+table caption {
+	margin:0.5em 0 0.25em 0;
+	font-style:italic;
+	text-align:left;
+}
+
+table.grey, table.grey th, table.grey td
+{
+	border: solid #666 thin;
+	border-collapse: collapse;
+}
+
+table.grey th
+{
+	background-color: #eee;
+	padding: 1pt;
+}
+
+table.grey td
+{
+	background-color: #fff;
+	padding: 1pt;
+}
+
+table .even, table .even td, table.grey .even td {background-color:#eee;}
+table.grey .even th {background-color:#ddd;}
+
+#content .notice, #content .importantnotice
+{
+	border: 1pt dotted #999;
+	background-color: #eee;
+	padding: 6pt;
+}
+
+#content .contentform
+{
+	border: 1pt dotted #999;
+	padding: 6pt;
+}
+
+#content .contentform label, #content .contentform fieldset
+{
+	display: block;
+	padding: 2pt 0;
+}
+
+#footer
+{
+	clear:both;
+	border-top: thin solid #666;
+	font-size: 80%;
+}
+
+#footer dt
+{
+	display: inline;
+	font-weight: bold;
+}
+
+#footer dd
+{
+	display: inline;
+	margin: 0 8pt 0 2pt;
+	font-style: italic;
+}

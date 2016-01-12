@@ -1,0 +1,416 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/2000/REC-xhtml1-20000126/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Research : The University of Melbourne</title>
+<!-- TemplateEndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<!-- TemplateBeginEditable name="head" -->
+<meta name="DC.Title" content="Research : The University of Melbourne" />
+<meta name="DC.Creator" content="" />
+<meta name="UM.Creator.Email" content="" />
+<meta name="DC.Subject" content="" />
+<meta name="keywords" content="" />
+<meta name="DC.Description" content="" />
+<meta name="description" content="" />
+<meta name="DC.Publisher" content="" />
+<meta name="DC.Contributor" content="" />
+<meta name="DC.Date" scheme="ISO 8601" content="YYYY-MM-DD" />
+<meta name="UM.Date.ReviewDue" scheme="ISO 8601" content="YYYY-MM-DD" />
+<meta name="UM.Authoriser.Name" content="" />
+<meta name="UM.Authoriser.Title" content="" />
+<meta name="UM.Maintainer.Name" content="" />
+<meta name="UM.Maintainer.Department" content="" />
+<meta name="UM.Maintainer.Email" content="" />
+<meta name="DC.Language" scheme="RFC 1766" content="en" />
+<!-- TemplateEndEditable -->
+<meta name="DC.Rights" content="http://www.unimelb.edu.au/disclaimer/" />
+<meta name="DC.Format" scheme="IMT" content="text/html" />
+<meta name="DC.Identifier" content="http://<!--#echo var='HTTP_HOST'--><!--#echo var='REQUEST_URI'-->" />
+<!--#config timefmt="%Y-%m-%d" --><meta name="DC.Date.Modified" scheme="ISO 8601" content="<!--#echo var='LAST_MODIFIED' -->" />
+<!-- START STYLE SHEET REFERENCES - DO NOT DELETE THE FOLLOWING TAG -->
+<link rel="stylesheet" href="/template-assets/styles/basic.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="/template-assets/styles/print.css" type="text/css" media="print" />
+<style type="text/css" media="screen">
+<!--
+    @import url("/template-assets/styles/compliant.css");
+-->
+</style>
+<script language="JavaScript" type="text/javascript" src="/template-assets/js/scripts.js"></script>
+<script language="JavaScript" type="text/javascript" src="/template-assets/js/mungerscripts.js"></script>
+<script language="JavaScript" type="text/javascript" src="/template-assets/js/menu.js"></script>
+<!-- TemplateBeginEditable name="styles" --><!-- TemplateEndEditable -->
+<script language="JavaScript" type="text/javascript">
+<!-- hide from old browsers
+function start(){ menuSet(); if (window.customStart) { customStart(); }}
+// -->
+</script>
+<!-- END STYLE SHEET REFERENCE -->
+<!-- The following Dreamweaver parameters set the visibility of the RHS image-->
+<!-- Use Modify - Template Properties to change the value -->
+<!-- TemplateParam name="currentSection" type="text" value="noCurrentSection" --><!-- TemplateParam name="layout" type="number" value="1" -->
+<style type="text/css" media="screen">
+a#@@(currentSection)@@{color:#fef485;}
+</style>
+<!-- TemplateParam name="home" type="boolean" value="true" -->
+</head>
+<body onload="start()">
+<div id="top">
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" summary="This table contains the University branding bar and includes links to the top levels of the website, the University logo and the input box for the University search engine.">
+    <tr>
+      <td rowspan="3" width="135" class="logocell" valign="bottom"><!--#include virtual="/template-assets/includes/g_logo.html" -->
+      </td>
+      <td class="topnavcell" nowrap="nowrap" valign="bottom"><a href="#content" accesskey="c" title="Skip past navigation to main part of page"><img src="/template-assets/images/navbar_curve22.gif" align="top" hspace="0" vspace="0" border="0" width="55" height="22" alt="Skip past navigation to main part of page" /></a></td>
+      <td class="topnavcell" width="99%"><!--#include virtual="/template-assets/includes/g_uni_menu.html" -->
+      </td>
+      <td class="topnavcell" nowrap="nowrap" align="right"><!--#include virtual="/template-assets/includes/g_search.html" -->
+      </td>
+    </tr>
+    <tr>
+      <td height="70" width="55">&nbsp;</td>
+      <td colspan="2" width="99%" valign="middle" class="banner"><!-- SELECT THE SSI FILE TO SUIT THE LAYOUT OF THE BRANDING SPACE -->
+        <!-- TemplateBeginEditable name="brandingspace" -->
+        <!--#include virtual="/template-assets/includes/c_branding_space_research.html" -->
+        <!-- TemplateEndEditable --></td>
+    </tr>
+    <tr valign="top">
+      <td class="secondnavfill" height="29" colspan="3"><!--#include virtual="/template-assets/includes/c_quick_links.html" -->
+      </td>
+    </tr>
+  </table>
+</div>
+<div class="printonly"> <img src="/template-assets/images/logo_print.gif" alt="" /> </div>
+<!-- START MIDDLE SECTION -->
+<div id="midsection">
+  <!-- TemplateBeginIf cond="layout == 1" -->
+  <!-- TemplateBeginEditable name="homebody1" -->
+    <table class="gridtable" cellpadding="0" cellspacing="0" border="0" summary="This table contains the main content of the page.">
+    <tr>
+      <td valign="top"><div class="homeunit"><a href="/about/research/achievements.html"><img src="" alt="Image link to About us" width="75" height="75" border="0" align="left" /></a>
+          <div class="homebutton">
+            <h2><a href="/aboutus/">About us </a></h2>
+            <ul class="homelinks">
+              <li><a href="/aboutus/welcome/">Dean&#39;s welcome</a></li>
+              <li><a href="/aboutus/structure/">Our structure </a></li>
+              <li><a href="/aboutus/contact/">Contact us</a></li>
+            </ul>
+          </div>
+        </div></td>
+      <td rowspan="99" class="divider" width="15"><img src="/template-assets/images/whitepixel.gif" alt="---" width="15" height="1" hspace="0" vspace="0" border="0" align="left" /></td>
+      <td valign="top"><div class="homeunit"><a href="/about/research/expertise.html"><img src="" alt="Image link to Courses" width="75" height="75" border="0" align="left" /></a>
+          <div class="homebutton">
+            <h2><a href="/courses/">Courses</a></h2>
+            <ul class="homelinks">
+              <li><a href="/courses/ungrad/">Undergraduate</a></li>
+              <li><a href="/courses/postgrad/">Postgraduate</a></li>
+              <li><a href="/courses/studyabroad/">Study abroad </a></li>
+            </ul>
+          </div>
+        </div></td>
+      <td rowspan="99" class="divider" width="15"><img src="/template-assets/images/whitepixel.gif" alt="---" width="15" height="1" hspace="0" vspace="0" border="0" align="left" /></td>
+      <td rowspan="99" valign="top" width="99%" id="content">
+        <h2>Global template</h2>
+        <p>This template applies to the top level University pages where the
+          page contributes to core University activities and the presentation
+          of the page adds to the public perception of the University. The navigation
+          and branding elements situated at the top and bottom of the page are
+          consistent across all pages. Typical visitors to these pages are prospective
+          students, first year or returning students, alumni, university staff,
+      staff from government, media, schools and members of the public.</p></td>
+    </tr>
+    <tr>
+      <td valign="top"><div class="homeunit"><a href="/about/research/achievements.html"><img src="" alt="Image link to Research" width="75" height="75" border="0" align="left" /></a>
+          <div class="homebutton">
+            <h2><a href="/research/">Research</a> </h2>
+            <ul class="homelinks">
+              <li><a href="/research/strengths/">Our strengths </a></li>
+              <li><a href="/courses/postgrad/res_areas.html">Areas of research </a></li>
+              <li><a href="/research/students.html">Prospective research students</a></li>
+            </ul>
+          </div>
+        </div></td>
+      <td valign="top"><div class="homeunit"><a href="/about/research/expertise.html"><img src="" alt="Image link to Schools &amp; Departments" width="75" height="75" border="0" align="left" /></a>
+          <div class="homebutton">
+            <h2><a href="/schools/">Schools and departments </a> </h2>
+            <ul class="homelinks">
+              <li><a href="/schools/">Schools</a></li>
+              <li><a href="/aboutus/structure/orgunits.html">Departments</a></li>
+              <li><a href="/aboutus/structure/clin_school.html">Clinical schools </a></li>
+            </ul>
+          </div>
+        </div></td>
+    </tr>
+    <tr>
+      <td valign="top"><div class="homeunit"><a href="/about/research/achievements.html"><img src="" alt="Image link to News &amp; Events" width="75" height="75" border="0" align="left" /></a>
+          <div class="homebutton">
+            <h2><a href="/news/">News and events </a> </h2>
+            <ul class="homelinks">
+              <li><a href="/news/deanslecture/">Dean&#39;s lecture series </a></li>
+              <li><a href="/news/dates.html">Semester dates </a></li>
+              <li><a href="/news/appointments.html">Appointments and awards </a></li>
+            </ul>
+          </div>
+        </div></td>
+      <td valign="top">&nbsp;</td>
+    </tr>
+	</table>
+	<!-- TemplateEndEditable -->
+	<!-- TemplateEndIf -->
+	<!-- TemplateBeginIf cond="layout == 2" -->
+	<!-- TemplateBeginEditable name="homebody2" -->
+	<table class="gridtable" cellpadding="0" cellspacing="0" border="0" summary="This table contains the main content of the page.">
+    <tr>
+	<td rowspan="99" valign="top" width="99%" id="content">
+        <h2>Global template</h2>
+        <p>This template applies to the top level University pages where the
+          page contributes to core University activities and the presentation
+          of the page adds to the public perception of the University. The navigation
+          and branding elements situated at the top and bottom of the page are
+          consistent across all pages. Typical visitors to these pages are prospective
+          students, first year or returning students, alumni, university staff,
+        staff from government, media, schools and members of the public.</p></td>
+	  <td rowspan="99" class="divider" width="15"><img src="/template-assets/images/whitepixel.gif" alt="---" width="15" height="1" hspace="0" vspace="0" border="0" align="left" /></td>
+      <td valign="top"><div class="homeunit"><a href="/about/research/achievements.html"><img src="" alt="Image link to About us" width="75" height="75" border="0" align="left" /></a>
+          <div class="homebutton">
+            <h2><a href="/aboutus/">About us </a></h2>
+            <ul class="homelinks">
+              <li><a href="/aboutus/welcome/">Dean&#39;s welcome</a></li>
+              <li><a href="/aboutus/structure/">Our structure </a></li>
+              <li><a href="/aboutus/contact/">Contact us</a></li>
+            </ul>
+          </div>
+        </div></td>
+      <td rowspan="99" class="divider" width="15"><img src="/template-assets/images/whitepixel.gif" alt="---" width="15" height="1" hspace="0" vspace="0" border="0" align="left" /></td>
+      <td valign="top"><div class="homeunit"><a href="/about/research/expertise.html"><img src="" alt="Image link to Courses" width="75" height="75" border="0" align="left" /></a>
+          <div class="homebutton">
+            <h2><a href="/courses/">Courses</a></h2>
+            <ul class="homelinks">
+              <li><a href="/courses/ungrad/">Undergraduate</a></li>
+              <li><a href="/courses/postgrad/">Postgraduate</a></li>
+              <li><a href="/courses/studyabroad/">Study abroad </a></li>
+            </ul>
+          </div>
+        </div></td>
+      </tr>
+    <tr>
+      <td valign="top"><div class="homeunit"><a href="/about/research/achievements.html"><img src="" alt="Image link to Research" width="75" height="75" border="0" align="left" /></a>
+          <div class="homebutton">
+            <h2><a href="/research/">Research</a> </h2>
+            <ul class="homelinks">
+              <li><a href="/research/strengths/">Our strengths </a></li>
+              <li><a href="/courses/postgrad/res_areas.html">Areas of research </a></li>
+              <li><a href="/research/students.html">Prospective research students</a></li>
+            </ul>
+          </div>
+        </div></td>
+      <td valign="top"><div class="homeunit"><a href="/about/research/expertise.html"><img src="" alt="Image link to Schools &amp; Departments" width="75" height="75" border="0" align="left" /></a>
+          <div class="homebutton">
+            <h2><a href="/schools/">Schools and departments </a> </h2>
+            <ul class="homelinks">
+              <li><a href="/schools/">Schools</a></li>
+              <li><a href="/aboutus/structure/orgunits.html">Departments</a></li>
+              <li><a href="/aboutus/structure/clin_school.html">Clinical schools </a></li>
+            </ul>
+          </div>
+        </div></td>
+    </tr>
+    <tr>
+      <td valign="top"><div class="homeunit"><a href="/about/research/achievements.html"><img src="" alt="Image link to News &amp; Events" width="75" height="75" border="0" align="left" /></a>
+          <div class="homebutton">
+            <h2><a href="/news/">News and events </a> </h2>
+            <ul class="homelinks">
+              <li><a href="/news/deanslecture/">Dean&#39;s lecture series </a></li>
+              <li><a href="/news/dates.html">Semester dates </a></li>
+              <li><a href="/news/appointments.html">Appointments and awards </a></li>
+            </ul>
+          </div>
+        </div></td>
+      <td valign="top">&nbsp;</td>
+    </tr>
+	</table>
+	<!-- TemplateEndEditable -->
+	<!-- TemplateEndIf -->
+	<!-- TemplateBeginIf cond="layout == 3" -->
+	<!-- TemplateBeginEditable name="homebody3" -->
+    <table class="gridtable" cellpadding="0" cellspacing="0" border="0" summary="This table contains the main content of the page.">
+    <tr>
+      <td valign="top"><div class="homeunit"><a href="/about/research/achievements.html"><img src="" alt="Image link to About us" width="75" height="75" border="0" align="left" /></a>
+          <div class="homebutton">
+            <h2><a href="/aboutus/">About us </a></h2>
+            <ul class="homelinks">
+              <li><a href="/aboutus/welcome/">Dean&#39;s welcome</a></li>
+              <li><a href="/aboutus/structure/">Our structure </a></li>
+              <li><a href="/aboutus/contact/">Contact us</a></li>
+            </ul>
+          </div>
+        </div></td>
+      <td rowspan="99" class="divider" width="15"><img src="/template-assets/images/whitepixel.gif" alt="---" width="15" height="1" hspace="0" vspace="0" border="0" align="left" /></td>
+      <td rowspan="99" valign="top" width="99%" id="content">
+        <h2>Global template</h2>
+        <p>This template applies to the top level University pages where the
+          page contributes to core University activities and the presentation
+          of the page adds to the public perception of the University. The navigation
+          and branding elements situated at the top and bottom of the page are
+          consistent across all pages. Typical visitors to these pages are prospective
+          students, first year or returning students, alumni, university staff,
+        staff from government, media, schools and members of the public.</p></td>
+    </tr>
+    <tr>
+      <td valign="top"><div class="homeunit"><a href="/about/research/achievements.html"><img src="" alt="Image link to Research" width="75" height="75" border="0" align="left" /></a>
+          <div class="homebutton">
+            <h2><a href="/research/">Research</a> </h2>
+            <ul class="homelinks">
+              <li><a href="/research/strengths/">Our strengths </a></li>
+              <li><a href="/courses/postgrad/res_areas.html">Areas of research </a></li>
+              <li><a href="/research/students.html">Prospective research students</a></li>
+            </ul>
+          </div>
+        </div></td>
+    </tr>
+    <tr>
+      <td valign="top"><div class="homeunit"><a href="/about/research/achievements.html"><img src="" alt="Image link to News &amp; Events" width="75" height="75" border="0" align="left" /></a>
+          <div class="homebutton">
+            <h2><a href="/news/">News and events </a> </h2>
+            <ul class="homelinks">
+              <li><a href="/news/deanslecture/">Dean&#39;s lecture series </a></li>
+              <li><a href="/news/dates.html">Semester dates </a></li>
+              <li><a href="/news/appointments.html">Appointments and awards </a></li>
+            </ul>
+          </div>
+        </div></td>
+    </tr>
+	</table>
+	<!-- TemplateEndEditable -->
+	<!-- TemplateEndIf -->
+	<!-- TemplateBeginIf cond="layout == 4" -->
+	<!-- TemplateBeginEditable name="homebody4" -->
+	<table class="gridtable" cellpadding="0" cellspacing="0" border="0" summary="This table contains the main content of the page.">
+    <tr>
+	<td rowspan="99" valign="top" width="99%" id="content">
+        <h2>Global template</h2>
+        <p>This template applies to the top level University pages where the
+          page contributes to core University activities and the presentation
+          of the page adds to the public perception of the University. The navigation
+          and branding elements situated at the top and bottom of the page are
+          consistent across all pages. Typical visitors to these pages are prospective
+          students, first year or returning students, alumni, university staff,
+        staff from government, media, schools and members of the public.</p></td>
+	  <td rowspan="99" class="divider" width="15"><img src="/template-assets/images/whitepixel.gif" alt="---" width="15" height="1" hspace="0" vspace="0" border="0" align="left" /></td>
+      <td valign="top"><div class="homeunit"><a href="/about/research/expertise.html"><img src="" alt="Image link to Courses" width="75" height="75" border="0" align="left" /></a>
+          <div class="homebutton">
+            <h2><a href="/courses/">Courses</a></h2>
+            <ul class="homelinks">
+              <li><a href="/courses/ungrad/">Undergraduate</a></li>
+              <li><a href="/courses/postgrad/">Postgraduate</a></li>
+              <li><a href="/courses/studyabroad/">Study abroad </a></li>
+            </ul>
+          </div>
+        </div></td>
+      </tr>
+    <tr>
+      <td valign="top"><div class="homeunit"><a href="/about/research/expertise.html"><img src="" alt="Image link to Schools &amp; Departments" width="75" height="75" border="0" align="left" /></a>
+          <div class="homebutton">
+            <h2><a href="/schools/">Schools and departments </a> </h2>
+            <ul class="homelinks">
+              <li><a href="/schools/">Schools</a></li>
+              <li><a href="/aboutus/structure/orgunits.html">Departments</a></li>
+              <li><a href="/aboutus/structure/clin_school.html">Clinical schools </a></li>
+            </ul>
+          </div>
+        </div></td>
+    </tr>
+	</table>
+	<!-- TemplateEndEditable -->
+	<!-- TemplateEndIf -->
+	<!-- TemplateBeginIf cond="layout == 5" -->
+	<!-- TemplateBeginEditable name="homebody5" -->
+    <table class="gridtable" cellpadding="0" cellspacing="0" border="0" summary="This table contains the main content of the page.">
+    <tr>
+      <td valign="top"><div class="homeunit"><a href="/about/research/achievements.html"><img src="" alt="Image link to About us" width="75" height="75" border="0" align="left" /></a>
+          <div class="homebutton">
+            <h2><a href="/aboutus/">About us </a></h2>
+            <ul class="homelinks">
+              <li><a href="/aboutus/welcome/">Dean&#39;s welcome</a></li>
+              <li><a href="/aboutus/structure/">Our structure </a></li>
+              <li><a href="/aboutus/contact/">Contact us</a></li>
+            </ul>
+          </div>
+        </div></td>
+      <td rowspan="99" class="divider" width="15"><img src="/template-assets/images/whitepixel.gif" alt="---" width="15" height="1" hspace="0" vspace="0" border="0" align="left" /></td>
+      <td rowspan="99" valign="top" width="99%" id="content">
+        <h2>Global template</h2>
+        <p>This template applies to the top level University pages where the
+          page contributes to core University activities and the presentation
+          of the page adds to the public perception of the University. The navigation
+          and branding elements situated at the top and bottom of the page are
+          consistent across all pages. Typical visitors to these pages are prospective
+          students, first year or returning students, alumni, university staff,
+        staff from government, media, schools and members of the public.</p></td>
+	 <td rowspan="99" class="divider" width="15"><img src="/template-assets/images/whitepixel.gif" alt="---" width="15" height="1" hspace="0" vspace="0" border="0" align="left" /></td>
+				<td rowspan="99" class="sidebar" valign="top">
+						<img src="/template-assets/images/sample_image.jpg" width="156" height="215" alt="Tall poppy award winners" />
+						<div class="caption">
+						<p>Caption for the image.</p>
+						</div></td>
+    </tr>
+    <tr>
+      <td valign="top"><div class="homeunit"><a href="/about/research/achievements.html"><img src="" alt="Image link to Research" width="75" height="75" border="0" align="left" /></a>
+          <div class="homebutton">
+            <h2><a href="/research/">Research</a> </h2>
+            <ul class="homelinks">
+              <li><a href="/research/strengths/">Our strengths </a></li>
+              <li><a href="/courses/postgrad/res_areas.html">Areas of research </a></li>
+              <li><a href="/research/students.html">Prospective research students</a></li>
+            </ul>
+          </div>
+        </div></td>
+    </tr>
+    <tr>
+      <td valign="top"><div class="homeunit"><a href="/about/research/achievements.html"><img src="" alt="Image link to News &amp; Events" width="75" height="75" border="0" align="left" /></a>
+          <div class="homebutton">
+            <h2><a href="/news/">News and events </a> </h2>
+            <ul class="homelinks">
+              <li><a href="/news/deanslecture/">Dean&#39;s lecture series </a></li>
+              <li><a href="/news/dates.html">Semester dates </a></li>
+              <li><a href="/news/appointments.html">Appointments and awards </a></li>
+            </ul>
+          </div>
+        </div></td>
+    </tr>
+	</table>
+	<!-- TemplateEndEditable -->
+	<!-- TemplateEndIf -->
+  <!--#include virtual="/template-assets/includes/topofpage.html" -->
+</div>
+<!-- END MIDDLE SECTION -->
+<!-- START BOTTOM SECTION -->
+<table width="100%" cellpadding="0" cellspacing="0" border="0" summary="This table contains links to University contact details and copyright, disclaimer, privacy and accessibility information.">
+  <tr>
+    <!--#include virtual="/template-assets/includes/c_footbar_global_lhs.html" -->
+    <!--#include virtual="/template-assets/includes/g_subsite_footbar_rhs.html" -->
+  </tr>
+</table>
+<table width="100%" cellpadding="0" cellspacing="0" border="0" summary="This table contains contact details and information about this page.">
+  <tr>
+    <td id="author" class="footer"><p> Date Created: <!-- TemplateBeginEditable name="Date Created" -->30 
+        January 2003<!-- TemplateEndEditable --><br />
+        Last Modified: 
+        <!--#config timefmt="%d %B %Y %H:%M:%S %T" -->
+        <!--#echo var="LAST_MODIFIED" -->
+        <br />
+        Authorised By: <!-- TemplateBeginEditable name="Authoriser" -->Director, 
+        Information Management, Information Division<!-- TemplateEndEditable --><br />
+        Maintainer: <!-- TemplateBeginEditable name="Maintainer" -->Web Services, 
+        Information Division<!-- TemplateEndEditable --><br />
+        Email: <!-- TemplateBeginEditable name="Email" -->web-info @ webcentre. 
+        unimelb.edu.au <!-- TemplateEndEditable --> </p></td>
+    <td id="legal" class="footer"><!--#include virtual="/template-assets/includes/g_footer.html" -->
+      <!-- TemplateBeginEditable name="footer extras" --> <!-- TemplateEndEditable --> 
+    </td>
+  </tr>
+</table>
+<!-- END BOTTOM SECTION -->
+</body>
+<!-- TemplateEnd -->
+</html>

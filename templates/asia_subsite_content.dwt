@@ -1,0 +1,175 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/2000/REC-xhtml1-20000126/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>PAGE TITLE</title>
+<!-- TemplateEndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- TemplateBeginEditable name="head" -->
+<meta name="DC.Title" content="" />
+<meta name="DC.Creator" content="" />
+<meta name="UM.Creator.Email" content="" />
+<meta name="DC.Subject" content="" />
+<meta name="keywords" content="" />
+<meta name="DC.Description" content="" />
+<meta name="description" content="" />
+<meta name="DC.Publisher" content="" />
+<meta name="DC.Contributor" content="" />
+<meta name="DC.Date" scheme="ISO 8601" content="YYYY-MM-DD" />
+<meta name="UM.Date.ReviewDue" scheme="ISO 8601" content="YYYY-MM-DD" />
+<meta name="UM.Authoriser.Name" content="" />
+<meta name="UM.Authoriser.Title" content="" />
+<meta name="UM.Maintainer.Name" content="" />
+<meta name="UM.Maintainer.Department" content="" />
+<meta name="UM.Maintainer.Email" content="" />
+<meta name="DC.Language" scheme="RFC 1766" content="en" />
+<!-- TemplateEndEditable -->
+<meta name="DC.Rights" content="http://www.unimelb.edu.au/disclaimer/" />
+<meta name="DC.Format" scheme="IMT" content="text/html" />
+<meta name="DC.Identifier" content="http://<!--#echo var='HTTP_HOST'--><!--#echo var='REQUEST_URI'-->" />
+<!--#config timefmt="%Y-%m-%d" --><meta name="DC.Date.Modified" scheme="ISO 8601" content="<!--#echo var='LAST_MODIFIED' -->" />
+<!-- START STYLE SHEET REFERENCES - DO NOT DELETE THE FOLLOWING TAG -->
+<link rel="stylesheet" href="/template-assets/styles/basic.css" type="text/css" media="screen"/>
+<link rel="stylesheet" href="/asia/template-assets-custom/styles/basic.css" type="text/css" media="screen"/>
+<link rel="stylesheet" href="/template-assets/styles/print.css" type="text/css" media="print" />
+<style type="text/css" media="screen">
+<!--
+    @import url("/template-assets/styles/compliant.css");
+	@import url("/asia/template-assets-custom/styles/compliant.css");
+-->
+</style>
+<script language="JavaScript" type="text/javascript" src="/template-assets/js/scripts.js"></script>
+<script language="JavaScript" type="text/javascript" src="/template-assets/js/menu.js"></script>
+<!-- TemplateBeginEditable name="styles" -->
+<script language="JavaScript" type="text/javascript">
+<!-- hide from old browsers
+// The folowing variable can be used to define a parent for pages below the 3rd level of the menu
+// var menuParent = "/aboutus/";
+// -->
+</script>
+<!-- TemplateEndEditable -->
+<script language="JavaScript" type="text/javascript">
+<!-- hide from old browsers
+function start(){ menuSet(); if (window.customStart) { customStart(); }}
+// -->
+</script>
+<!-- END STYLE SHEET REFERENCE -->
+<!-- The following Dreamweaver parameters set the visibility of the RHS image-->
+<!-- Use Modify - Template Properties to change the value -->
+<!-- TemplateParam name="side image" type="boolean" value="true" -->
+</head>
+<body onload="start()">
+<div id="top">
+<table border="0" width="100%" cellspacing="0" cellpadding="0" summary="This table contains the University branding bar and includes links to the top levels of the website, the University logo and the input box for the University search engine.">
+	<tr>
+		<td rowspan="3" width="135" class="logocell" valign="bottom">
+   			<!--#include virtual="/asia/template-assets-custom/includes/c_logo.html" -->
+		</td>
+		<td class="topnavcell" nowrap="nowrap" valign="bottom">
+		 <a href="#content" accesskey="c" title="Skip past navigation to main part of page"><img src="/template-assets/images/navbar_curve22.gif" align="top" hspace="0" vspace="0" border="0" width="55" height="22" alt="Skip past navigation to main part of page" /></a></td>
+		<td class="topnavcell" nowrap="nowrap">
+  			<!--#include virtual="/template-assets/includes/g_uni_menu_dropdown.html" -->
+		</td>
+		<td class="topnavcell" nowrap="nowrap" align="right">
+			<!--#include virtual="/template-assets/includes/g_search_labelled.html" -->
+		</td>
+	</tr>
+	<tr>
+	 <td height="70" width="55">&nbsp;</td>
+		<td colspan="2" width="99%" valign="middle" class="banner">
+		 <!-- SELECT THE SSI FILE TO SUIT THE LAYOUT OF THE BRANDING SPACE -->
+			<!-- TemplateBeginEditable name="brandingspace" -->
+			<!--#include virtual="../asia/template-assets-custom/includes/c_branding_space_community_asia.html" -->
+			<!-- TemplateEndEditable --></td>
+	</tr>
+	<tr valign="top">
+		<td class="customsecondnavfill" height="29" colspan="3">
+   <!--#include virtual="/asia/template-assets-custom/includes/c_quick_links.html" -->
+		</td>
+	</tr>
+</table>
+</div>
+<div class="printonly">
+<img src="/template-assets/images/logo_print.gif" alt="" />
+</div>
+<!-- START MIDDLE SECTION -->
+<div id="midsection">
+
+<!-- TemplateBeginEditable name="breadcrumbs" -->
+<div id="breadcrumbs">
+<a href="/">Home</a>
+</div>
+<!-- TemplateEndEditable -->
+
+<table class="gridtable" cellpadding="0" cellspacing="0" border="0" summary="This table contains the main content of the page.">
+  <tr>
+				<td valign="top">
+					<!--#include virtual="/asia/template-assets-custom/includes/c_menu.html" -->
+				</td>
+				<td class="divider" width="15" valign="top">
+					<img src="/template-assets/images/whitepixel.gif" alt="---" width="15" height="1" hspace="0" vspace="0" border="0" align="left" />
+				</td>
+				<td id="content" width="100%" valign="top">
+				<a name="content"></a>
+						<h1><!-- TemplateBeginEditable name="page title" -->Subsite template<!-- TemplateEndEditable --></h1>
+			            <!-- TemplateBeginEditable name="content" -->
+			  <p>This template applies to discrete sections of the website that cater
+			    to a specific target audience, such as a division, faculty, department
+			    or centre. The template provides some flexibility to allow the sub-site
+			    to establish a slightly customised look and feel, based on the Global
+			    template. Global navigation options provide access to the top levels of
+			    the University site in addition to local navigation options linking to
+			    sections of the sub-site. Typical visitors to these pages would be prospective
+			    students, first year or returning students, alumni, researchers, university
+			    staff, staff from government, industry, media, schools and members of
+			    the public.</p>
+						<!-- TemplateEndEditable --></td>
+				<!-- TemplateBeginIf cond="_document['side image']" -->
+				<td class="divider" width="15" valign="top">
+					<img src="/template-assets/images/whitepixel.gif" alt="---" width="15" height="1" hspace="0" vspace="0" align="top" />
+				</td>
+				<td class="sidebar" valign="top">
+						<!-- TemplateBeginEditable name="side image" -->
+						<img src="/template-assets/images/sample_image.jpg" width="156" height="215" alt="Tall poppy award winners" />
+						<!-- TemplateEndEditable -->
+						<div class="caption">
+						<!-- TemplateBeginEditable name="image caption" -->
+						<p>Caption for the image.</p>
+						<!-- TemplateEndEditable --></div></td>
+				<!-- TemplateEndIf -->
+	</tr>
+</table>
+<!--#include virtual="/template-assets/includes/topofpage.html" -->
+</div>
+<!-- END MIDDLE SECTION -->
+<!-- START BOTTOM SECTION -->
+<table width="100%" cellpadding="0" cellspacing="0" border="0" summary="This table contains links to University contact details and copyright, disclaimer, privacy and accessibility information.">
+  <tr>
+    <!--#include virtual="/asia/template-assets-custom/includes/c_footbar.html" -->
+    <!--#include virtual="/template-assets/includes/g_subsite_footbar_rhs.html" -->
+  </tr>
+</table>
+<table width="100%" cellpadding="0" cellspacing="0" border="0" summary="This table contains contact details and information about this page.">
+	<tr>
+		<td id="author" class="footer">
+		 <p>
+			Date Created: <!-- TemplateBeginEditable name="Date Created" -->DD mmmm YYYY<!-- TemplateEndEditable --><br />
+			Last Modified: <!--#config timefmt="%d %B %Y %H:%M:%S" --><!--#echo var="LAST_MODIFIED" --><br />
+			Authorised By: <!-- TemplateBeginEditable name="Authoriser" -->AUTHORISER'S TITLE, DEPARTMENT, FACULTY/DIVISION<!-- TemplateEndEditable --><br />
+			Maintainer: <!-- TemplateBeginEditable name="Maintainer" -->MAINTAINER'S NAME, DEPARTMENT<!-- TemplateEndEditable --><br />
+			Email: <!-- TemplateBeginEditable name="Email" -->MAINTAINER'S EMAIL ADDRESS<!-- TemplateEndEditable --> 
+		 </p>  
+		</td>
+		<td id="legal" class="footer">
+		   <!--#include virtual="/template-assets/includes/g_footer.html" -->
+		   <!-- TemplateBeginEditable name="footer extras" -->
+		   <!-- Include file temporarily disabled -->
+		   <!-- include virtual="/template-assets/includes/c_footer_extras.inc" -->
+		   <!-- TemplateEndEditable -->
+		</td>
+	</tr>
+</table>
+<!-- END BOTTOM SECTION -->
+</body><!-- TemplateEnd -->
+</html>

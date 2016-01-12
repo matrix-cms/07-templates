@@ -1,0 +1,97 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/2000/REC-xhtml1-20000126/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Page Title : Site Title : The University of Melbourne</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<meta name="DC.Rights" content="http://www.unimelb.edu.au/disclaimer/" />
+<meta name="DC.Format" scheme="IMT" content="text/html" />
+<meta name="DC.Identifier" content="http://<!--#echo var='HTTP_HOST'--><!--#echo var='REQUEST_URI'-->" />
+<!--#config timefmt="%Y-%m-%d" --><meta name="DC.Date.Modified" scheme="ISO 8601" content="<!--#echo var='LAST_MODIFIED' -->" />
+
+<!-- style sheets -->
+	<link rel="stylesheet" type="text/css" href="http://www.unimelb.edu.au/template-assets/07/styles/i_stub.css" media="screen, projection" />
+	<link rel="stylesheet" type="text/css" href="http://www.unimelb.edu.au/template-assets/07/styles/handheld.css" media="handheld" />
+	<link rel="stylesheet" type="text/css" href="http://www.unimelb.edu.au/template-assets/07/styles/print.css" media="print" />
+	<link rel="stylesheet" type="text/css" href="/template-assets-custom/07/styles/custom.css" media="screen, projection" />
+<!--[if lt IE 7.]>
+	<link rel="stylesheet" href="http://www.unimelb.edu.au/template-assets/07/styles/ie-win-5-6.css" type="text/css" media="screen" />
+<![endif]-->
+<!-- javascript -->
+	<script language="JavaScript" type="text/javascript" src="http://www.unimelb.edu.au/template-assets/07/js/core.js"></script>
+<!-- TemplateBeginEditable name="styles" -->
+<!-- TemplateEndEditable -->
+<!-- TemplateParam name="sidebar" type="boolean" value="true" -->
+</head>
+
+<body id="internal"> 
+<div id="top"> 
+	<ul id="skipmenu">
+		<li class="skiplink"><a href="#menu" accesskey="m">Skip to navigation</a></li>
+		<li class="skiplink"><a href="#content" accesskey="c">Skip to content</a></li>
+		<li><a href="http://www.unimelb.edu.au/" id="homelink" accesskey="h">University home page</a></li>
+	</ul>
+	<h1><!-- TemplateBeginEditable name="brandingspace" --><!--#include virtual="/template-assets-custom/07/includes/i_branding_space.html" --><!-- TemplateEndEditable --></h1>
+	<div id="global-bar">
+<!--#include virtual="/template-assets/07/includes/i_searchform.html" -->
+	</div>
+</div>
+
+<div id="middle" class="accent">
+	<div id="quicklinks" class="accent">
+	<!-- TemplateBeginEditable name="quicklinks" -->
+	<!--#include virtual="/template-assets/07/includes/i_quicklinks.html" -->
+	<!-- TemplateEndEditable -->
+	</div>
+	
+	<div id="menu">
+	<!-- TemplateBeginEditable name="menu" -->
+	<!--#include virtual="/template-assets-custom/07/includes/i_menu.html" -->
+	<!-- TemplateEndEditable -->
+	</div>
+	<div id="breadcrumbs">
+	<!-- TemplateBeginEditable name="breadcrumbs" -->
+		<a href="/">Site home</a>
+	<!-- TemplateEndEditable -->
+	</div>
+	<!-- TemplateBeginIf cond="_document['sidebar']" -->
+	<div id="sidebar">
+		<!-- TemplateBeginEditable name="sidebar box" -->
+			<h2>Box header</h2>
+			<p>This feature box is suitable for displaying current news items or announcements. The box can be resized to suit the page requirements.</p>
+		<!-- TemplateEndEditable -->
+	</div>
+	<!-- TemplateEndIf -->
+	
+	<div id="content">
+		<h2><!-- TemplateBeginEditable name="page title" -->Internal page title<!-- TemplateEndEditable --></h2>
+	<!-- TemplateBeginEditable name="content" -->
+		<p>This template is for use on all internal University websites. The colour band, title, quicklinks and menu can all be easily modified.</p>
+		<p>This template applies to sections of the University site that require a user to login or where access is limited by IP address to the unimelb.edu.au domain. The navigation and branding elements have an internal focus and branding elements would be reduced to be less obtrusive than externally focused pages and to maximise the content section of the page. Typical users of these pages would be University staff and researchers.</p>
+	<!-- TemplateEndEditable -->
+		<div class="topofpage">
+			<a href="#top" accesskey="t" title="Back to the top of the page">top of page</a>
+		</div>
+	</div>
+</div>
+
+
+<div id="footer">
+<!--#include virtual="/template-assets/07/includes/i_metalinks.html" -->
+	<div>
+		<dl>
+			<dt>Date created:</dt><dd><!-- TemplateBeginEditable name="Date Created" -->Date Created<!-- TemplateEndEditable --></dd>
+			<dt>Last modified:<!--#config timefmt="%d %B %Y %H:%M:%S" --></dt><dd><!--#echo var="LAST_MODIFIED" --></dd>
+			<dt>Authoriser:</dt><dd><!-- TemplateBeginEditable name="Authoriser" -->Authoriser<!-- TemplateEndEditable --></dd>
+			<dt>Maintainer:</dt><dd><!-- TemplateBeginEditable name="Maintainer" -->Maintainer<!-- TemplateEndEditable --></dd>
+			<dt>Email:</dt><dd><!-- TemplateBeginEditable name="Email" -->Email<!-- TemplateEndEditable --></dd>
+		</dl>
+<!--#include virtual="/template-assets/07/includes/i_legal.html" -->
+<!-- TemplateBeginEditable name="footer extras" --><!-- TemplateEndEditable -->
+	</div>
+</div>
+</body>
+</html>

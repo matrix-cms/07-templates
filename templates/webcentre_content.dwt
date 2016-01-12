@@ -1,0 +1,199 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/2000/REC-xhtml1-20000126/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>
+PAGE TITLE : SUBSITE TITLE : The University of Melbourne
+</title>
+<!-- TemplateEndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<!-- TemplateBeginEditable name="head" -->
+<meta name="DC.Title" content="PAGE TITLE : SUBSITE TITLE : University of Melbourne" />
+<meta name="DC.Creator" content="The University of Melbourne, DIVISION/FACULTY, DEPARTMENT, PERSON'S NAME" />
+<meta name="UM.Creator.Email" content="CREATOR'S EMAIL ADDRESS" />
+<meta name="DC.Subject" content="TEN KEY PHRASES OF 2-3 WORDS EACH: WHAT WOULD USERS TYPE INTO A SEARCH ENGINE TO FIND THIS PAGE?" />
+<meta name="keywords" content="TEN KEY PHRASES OF 2-3 WORDS EACH: WHAT WOULD USERS TYPE INTO A SEARCH ENGINE TO FIND THIS PAGE?" />
+<meta name="DC.Description" content="LEAD/TEASER SENTENCE OF 20-30 WORDS SUMMARISING CONTENT OF THE PAGE" />
+<meta name="description" content="LEAD/TEASER SENTENCE OF 20-30 WORDS SUMMARISING CONTENT OF THE PAGE" />
+<meta name="DC.Publisher" content="The University of Melbourne, FACULTY/DIVISION, DEPARTMENT" />
+<meta name="DC.Contributor" content="NAME AND CONTACT DETAILS FOR EACH CONTRIBUTOR. ONE CONTRIBUTOR PER TAG. COPY AND PASTE THIS TAG AS MANY TIMES AS NEEDED." />
+<meta name="DC.Rights" content="http://www.unimelb.edu.au/disclaimer/" />
+<meta name="DC.Date" scheme="ISO 8601" content="YYYY-MM-DD" />
+<meta name="UM.Date.ReviewDue" scheme="ISO 8601" content="YYYY-MM-DD" />
+<meta name="UM.Authoriser.Name" content="AUTHORISER'S NAME" />
+<meta name="UM.Authoriser.Title" content="AUTHORISER'S TITLE, DEPARTMENT, FACULTY/DIVISION" />
+<meta name="UM.Maintainer.Name" content="MAINTAINER'S NAME" />
+<meta name="UM.Maintainer.Department" content="MAINTAINER'S DEPARTMENT, FACULTY/DIVISION" />
+<meta name="UM.Maintainer.Email" content="MAINTAINER'S EMAIL ADDRESS" />
+<meta name="DC.Language" scheme="RFC 1766" content="en" />
+<meta name="DC.Format" scheme="IMT" content="text/html" />
+<!-- TemplateEndEditable -->
+<meta name="DC.Identifier" content="http://<!--#echo var='HTTP_HOST'--><!--#echo var='REQUEST_URI'-->" />
+<!--#config timefmt="%Y-%m-%d" --><meta name="DC.Date.Modified" scheme="ISO 8601" content="<!--#echo var='LAST_MODIFIED' -->" />
+<!-- START STYLE SHEET REFERENCES - DO NOT DELETE THE FOLLOWING TAG -->
+<link rel="stylesheet" href="/template-assets/styles/basic.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="/template-assets/styles/print.css" type="text/css" media="print" />
+<style type="text/css" media="screen">
+<!--
+    @import url("/template-assets/styles/compliant.css");
+-->
+</style>
+<script language="JavaScript" type="text/javascript" src="/template-assets/js/scripts.js"></script>
+<script language="JavaScript" type="text/javascript" src="/template-assets/js/menu.js"></script>
+<!-- TemplateBeginEditable name="styles" -->
+<script language="JavaScript" type="text/javascript">
+<!-- hide from old browsers
+// The folowing variable can be used to define a parent for pages below the 3rd level of the menu
+// var menuParent = "/aboutus/";
+// -->
+</script>
+<!-- TemplateEndEditable -->
+<script language="JavaScript" type="text/javascript">
+<!-- hide from old browsers
+function start(){ menuSet(); }
+// -->
+</script>
+<!-- END STYLE SHEET REFERENCE -->
+<!-- The following Dreamweaver parameters set the visibility of the RHS image-->
+<!-- Use Modify - Template Properties to change the value -->
+<!-- TemplateParam name="side image" type="boolean" value="true" -->
+<!-- TemplateParam name="currentSection" type="text" value="noCurrentSection" -->
+<style type="text/css" media="screen">a#@@(currentSection)@@{color:#fef485;}</style>
+</head>
+<body onload="start()">
+<div id="top">
+<table border="0" width="100%" cellspacing="0" cellpadding="0" summary="This table contains the University branding bar and includes links to the top levels of the website, the University logo and the input box for the University search engine.">
+	<tr>
+      <td rowspan="3" width="135" class="logocell" valign="bottom"><!--#include virtual="/template-assets/includes/g_logo.inc" -->
+      </td>
+      <td class="topnavcell" nowrap="nowrap" valign="bottom"><a href="#content" accesskey="c" title="Skip past navigation to main part of page"><img src="/template-assets/images/navbar_curve22.gif" align="top" hspace="0" vspace="0" border="0" width="55" height="22" alt="Skip past navigation to main part of page" /></a></td>
+      <td class="topnavcell" width="99%"><!--#include virtual="/template-assets/includes/g_uni_menu.inc" -->
+	  </td>
+      <td class="topnavcell" nowrap="nowrap" align="right"><!--#include virtual="/template-assets/includes/g_search.inc" -->
+      </td>
+    </tr>
+    <tr>
+      <td height="70" width="55">&nbsp;</td>
+      <td colspan="2" width="99%" valign="middle" class="banner"><!-- SELECT THE SSI FILE TO SUIT THE LAYOUT OF THE BRANDING SPACE -->
+          <!-- TemplateBeginEditable name="brandingspace" -->
+          <!--#include virtual="/webcentre/template-assets-custom/includes/c_branding_space.html" -->
+        <!-- TemplateEndEditable --></td>
+    </tr>
+    <tr valign="top">
+      <td class="secondnavfill" height="29" colspan="3"><!--#include virtual="/webcentre/template-assets-custom/includes/c_quick_links.html" -->
+      </td>
+    </tr>
+</table>
+</div>
+<div class="printonly">
+<img src="/template-assets/images/logo_print.gif" alt="" />
+</div>
+<!-- START MIDDLE SECTION -->
+<div id="midsection">
+
+<!-- TemplateBeginEditable name="breadcrumbs" -->
+<div id="breadcrumbs">
+<a href="/">Web Services home </a>
+</div>
+<!-- TemplateEndEditable -->
+
+<table class="gridtable" cellpadding="0" cellspacing="0" border="0" summary="This table contains the main content of the page.">
+  <tr>
+				<td valign="top">
+					<!--#include virtual="/webcentre/template-assets-custom/includes/c_menu.html" -->
+				</td>
+				<td class="divider" width="15" valign="top">
+					<img src="/template-assets/images/whitepixel.gif" alt="---" width="15" height="1" hspace="0" vspace="0" border="0" align="left" />
+				</td>
+				<td id="content" width="100%" valign="top">
+				<a name="content"></a>
+						<h1><!-- TemplateBeginEditable name="page title" -->Page title<!-- TemplateEndEditable --></h1>
+			            <!-- TemplateBeginEditable name="content" -->
+			  <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Vestibulum
+			    lectus. Nunc imperdiet lorem a lectus. Morbi at odio ut nunc malesuada
+			    vulputate. Phasellus sed pede. Pellentesque sagittis nibh eu urna. Fusce
+			    blandit diam ut quam. Phasellus varius massa a ligula. Sed rhoncus quam
+			    in ante. Phasellus sit amet orci. Maecenas euismod. Aliquam tempor. Morbi
+			    tincidunt. Sed quis lacus. Nunc luctus consequat erat. Vivamus ultrices
+			    arcu in nisl. Etiam at nulla ac ipsum pellentesque adipiscing. Aliquam
+			    eleifend.</p>
+						<p>Donec a mi. Integer consequat semper magna. Sed in diam. Sed viverra
+						  quam vel quam. Proin erat. Donec eleifend, purus ac fringilla egestas,
+						  ipsum ante aliquam sem, eget elementum dui tellus quis ligula. Phasellus
+						  orci nunc, tristique ac, mattis vel, porttitor id, orci. Quisque lectus
+						  est, ultrices quis, pretium id, tristique eu, metus. Maecenas et mi eget
+						  enim hendrerit mollis. Phasellus tincidunt, nisl sit amet accumsan porta,
+						  sem urna tempus massa, quis molestie lorem eros sed nulla. Sed vulputate,
+						  velit non lobortis convallis, est neque sollicitudin mi, in lacinia orci
+						  enim non felis.</p>
+			            <p>Donec aliquet, quam sit amet tristique tincidunt, nibh arcu
+			              faucibus magna, nec vestibulum lectus magna vel lorem. Nam quis
+			              quam ut ante blandit lobortis. Nam augue. Proin volutpat. Maecenas
+			              fermentum. Fusce blandit nibh eget pede. Vestibulum sagittis.
+			              Cras ultrices consectetuer sem. Quisque luctus. Phasellus velit.
+			              Vivamus elementum lacinia lectus. Morbi eleifend purus dignissim
+		                erat.</p>
+			            <!-- TemplateEndEditable --></td>
+				<!-- TemplateBeginIf cond="_document['side image']" -->
+				<td class="divider" width="15" valign="top">
+					<img src="/template-assets/images/whitepixel.gif" alt="---" width="15" height="1" hspace="0" vspace="0" align="top" />
+				</td>
+				<td class="sidebar" valign="top">
+						<!-- TemplateBeginEditable name="side image" -->
+						<img src="/template-assets/images/medstv_image.jpg" width="156" height="215" alt="Tall poppy award winners" />
+						<!-- TemplateEndEditable -->
+						<div class="caption">
+						<!-- TemplateBeginEditable name="image caption" -->
+						<p>Insert
+						    an illustration above by clicking the grey box, then selecting your
+					    prepared image. </p>
+						<p>The image should be no more than 200 pixels wide, 72
+					    dpi, RGB or indexed color. </p>
+						<p>
+						  Type your caption here, including photographer's
+						    credit and copyright statement. Copy and paste the
+						    caption in to the alt text for the image.</p>
+						<p>
+						  If you don't want an image here, select Modify from
+						    the top menu, choose Template Properties, then uncheck
+						    the box &quot;Show side image&quot;.</p>
+						<!-- TemplateEndEditable --></div></td>
+				<!-- TemplateEndIf -->
+	</tr>
+</table>
+<!--#include virtual="/template-assets/includes/topofpage.inc" -->
+</div>
+<!-- END MIDDLE SECTION -->
+<!-- START BOTTOM SECTION -->
+<table width="100%" cellpadding="0" cellspacing="0" border="0" summary="This table contains links to University contact details and copyright, disclaimer, privacy and accessibility information.">
+ <tr>
+ <!--#include virtual="/webcentre/template-assets-custom/includes/c_footbar_lhs.html" -->
+ <!--#include virtual="/template-assets/includes/g_subsite_footbar_rhs.inc" -->
+ </tr>
+</table>
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0" summary="This table contains contact details and information about this page.">
+	<tr>
+		<td id="author" class="footer">
+		 <p>
+			Date Created: <!-- TemplateBeginEditable name="Date Created" -->DD mmmm YYYY<!-- TemplateEndEditable --><br />
+			Last Modified: <!--#config timefmt="%d %B %Y %H:%M:%S" --><!--#echo var="LAST_MODIFIED" --><br />
+			Authorised By: <!-- TemplateBeginEditable name="Authoriser" -->AUTHORISER'S TITLE, DEPARTMENT, FACULTY/DIVISION<!-- TemplateEndEditable --><br />
+			Maintainer: <!-- TemplateBeginEditable name="Maintainer" -->MAINTAINER'S NAME, DEPARTMENT<!-- TemplateEndEditable --><br />
+			Email: <!-- TemplateBeginEditable name="Email" -->MAINTAINER'S EMAIL ADDRESS<!-- TemplateEndEditable --> 
+		 </p>  
+		</td>
+		<td id="legal" class="footer">
+		   <!--#include virtual="/template-assets/includes/g_footer.inc" -->
+		   <!-- TemplateBeginEditable name="footer extras" -->
+		   <!-- Include file temporarily disabled -->
+		   <!-- include virtual="/template-assets/includes/c_footer_extras.inc" -->
+		   <!-- TemplateEndEditable -->
+		</td>
+	</tr>
+</table>
+<!-- END BOTTOM SECTION -->
+</body>
+<!-- TemplateEnd -->
+</html>

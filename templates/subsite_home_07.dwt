@@ -1,0 +1,121 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Page Title : Site Title : The University of Melbourne</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<meta name="DC.Rights" content="http://www.unimelb.edu.au/disclaimer/" />
+<meta name="DC.Format" scheme="IMT" content="text/html" />
+<meta name="DC.Identifier" content="http://<!--#echo var='HTTP_HOST'--><!--#echo var='REQUEST_URI'-->" />
+<!--#config timefmt="%Y-%m-%d" --><meta name="DC.Date.Modified" scheme="ISO 8601" content="<!--#echo var='LAST_MODIFIED' -->" />
+
+<!-- style sheets -->
+	<link rel="stylesheet" type="text/css" href="http://www.unimelb.edu.au/template-assets/07/styles/stub.css" media="screen, projection, print" />
+	<link rel="stylesheet" type="text/css" href="http://www.unimelb.edu.au/template-assets/07/styles/handheld.css" media="handheld" />
+	<link rel="stylesheet" type="text/css" href="/template-assets-custom/07/styles/custom.css" media="screen, projection, print" />
+<!--[if lt IE 7.]>
+	<link rel="stylesheet" href="http://www.unimelb.edu.au/template-assets/07/styles/ie-win-5-6.css" type="text/css" media="screen" />
+<![endif]-->
+<!-- javascript -->
+	<script language="JavaScript" type="text/javascript" src="http://www.unimelb.edu.au/template-assets/07/js/core.js"></script>
+<!-- TemplateBeginEditable name="styles" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body id="subhome">
+<div id="top">
+	<ul id="skipmenu">
+		<li class="skiplink"><a href="#nav" accesskey="m">Skip to navigation</a></li>
+		<li class="skiplink"><a href="#content" accesskey="c">Skip to content</a></li>
+		<li><a href="http://www.unimelb.edu.au/" id="homelink" accesskey="h">University home page</a></li>
+	</ul>
+	<h1><!-- TemplateBeginEditable name="brandingspace" --><!--#include virtual="/template-assets-custom/07/includes/branding_space.html" --><!-- TemplateEndEditable --></h1>
+	<div id="global-bar">
+<!--#include virtual="/template-assets/07/includes/uni_menu.html" -->
+<!--#include virtual="/template-assets/07/includes/uni_search.html" -->
+	</div>
+</div>
+
+<div id="quicklinks" class="accent">
+<!-- TemplateBeginEditable name="quicklinks" -->
+<!--#include virtual="/template-assets/07/includes/quicklinks.html" -->
+<!-- TemplateEndEditable -->
+</div>
+    
+<!-- TemplateBeginEditable name="homebody" -->
+<div id="nav">
+	<div>
+		<div class="icon section1">
+			<h2><a href="http://www.unimelb.edu.au/">Section 1</a></h2>
+			<ul>
+				<li><a href="http://www.unimelb.edu.au/">Link 1</a></li>
+				<li><a href="http://www.unimelb.edu.au/">Link 2</a></li>
+				<li><a href="http://www.unimelb.edu.au/">Link 3</a></li>
+				<li><a href="http://www.unimelb.edu.au/">Link 4</a></li>
+			</ul>
+		</div>
+		<div class="icon section2">
+			<h2><a href="http://www.unimelb.edu.au/">Section 2</a></h2>
+			<ul>
+				<li><a href="http://www.unimelb.edu.au/">Link 1</a></li>
+				<li><a href="http://www.unimelb.edu.au/">Link 2</a></li>
+				<li><a href="http://www.unimelb.edu.au/">Link 3</a></li>
+				<li><a href="http://www.unimelb.edu.au/">Link 4</a></li>
+			</ul>
+		</div>
+	</div>
+	<div>
+		<div class="icon section3">
+			<h2><a href="http://www.unimelb.edu.au/">Section 3</a></h2>
+			<ul>
+				<li><a href="http://www.unimelb.edu.au/">Link 1</a></li>
+				<li><a href="http://www.unimelb.edu.au/">Link 2</a></li>
+				<li><a href="http://www.unimelb.edu.au/">Link 3</a></li>
+				<li><a href="http://www.unimelb.edu.au/">Link 4</a></li>
+			</ul>
+		</div>
+		<div class="icon section4">
+			<h2><a href="http://www.unimelb.edu.au/">Section 4</a></h2>
+			<ul>
+				<li><a href="http://www.unimelb.edu.au/">Link 1</a></li>
+				<li><a href="http://www.unimelb.edu.au/">Link 2</a></li>
+				<li><a href="http://www.unimelb.edu.au/">Link 3</a></li>
+				<li><a href="http://www.unimelb.edu.au/">Link 4</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div id="home-content">
+	<h2>Section heading</h2>
+	<p>Introductory text about this website. Introductory text about this website. Introductory text about this website. Introductory text about this website.</p>
+	<ul>
+	  <li><a href="#">Point 1</a></li>
+	  <li><a href="#">Point 2</a></li>
+	</ul>
+	<p class="notice">Introductory text about this website. Introductory text about this website. Introductory text about this website. Introductory text about this website.</p>
+	<h3>Sub-section heading</h3>
+	<p>More text about this website. More text about this website. More text about this website. More text about this website.</p>
+</div>
+<!-- TemplateEndEditable -->
+
+<div id="footer">
+<!--#include virtual="/template-assets/07/includes/metalinks.html" -->
+	<div>
+		<dl>
+			<dt>Date created:</dt><dd><!-- TemplateBeginEditable name="Date Created" -->&nbsp;<!-- TemplateEndEditable --></dd>
+			<!--#config timefmt="%d %B %Y %H:%M:%S" -->
+			<dt>Last modified:</dt><dd><!--#echo var="LAST_MODIFIED" --></dd>
+			<dt>Authoriser:</dt><dd><!-- TemplateBeginEditable name="Authoriser" -->&nbsp;<!-- TemplateEndEditable --></dd>
+			<dt>Maintainer:</dt><dd><!-- TemplateBeginEditable name="Maintainer" -->&nbsp;<!-- TemplateEndEditable --></dd>
+			<dt>Email:</dt><dd><!-- TemplateBeginEditable name="Email" -->&nbsp;<!-- TemplateEndEditable --></dd>
+		</dl>
+<!--#include virtual="/template-assets/07/includes/legal.html" -->
+<!-- TemplateBeginEditable name="footer extras" --><!-- TemplateEndEditable -->
+	</div>
+</div>
+</body>
+</html>

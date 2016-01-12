@@ -1,0 +1,3 @@
+   <!-- start g_logo include -->
+   <table width="135" border="0" cellpadding="0" cellspacing="0" summary="This table contains the University logo and link to the University homepage."><tr><td id="logo"><a href="http://www.unimelb.edu.au/" accesskey="h" title="The University of Melbourne homepage"><img src="/template-assets/images/logo_crest_comb.gif" width="135" height="121" border="0" alt="The University of Melbourne" hspace="0" vspace="0" align="bottom" /></a></td></tr></table>
+   <!-- end g_logo include -->

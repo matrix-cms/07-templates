@@ -1,0 +1,48 @@
+/* accent effects the background colour of several items in the internal template */
+.accent {
+	background-color: #466aa1;
+}
+
+/* the border color of the footer bar can optionally be matched to the accent color */
+#metalinks
+{
+	border-bottom-color: #ccc;
+	border-top-color: #ccc;
+}
+
+#top /* the background banner image */
+{
+	background-image: url("http://www.unimelb.edu.au/template-assets/07/images/banner/004.jpg");
+}
+
+#content {max-width:none;}
+#content .tel {font-weight:bold;}
+#content .formdiv {
+	margin: 0 0 2em;
+	background-color:#F3F6F9;
+	border:1px solid #BBCCDD;
+	padding: 0.5em 1em;
+	width: 94%;
+}
+#content table.grey {
+	margin: 0 0 2em;
+}
+#content table.grey tr:hover {
+	background-color: #eee;
+}
+#emailform ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+#emailform ul label {
+	display: block;
+	float: left;
+	width: 8em;
+}
+li.submit {
+	padding-left: 8em;
+}
+.tel .type {
+	display:none;
+}

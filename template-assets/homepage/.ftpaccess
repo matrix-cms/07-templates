@@ -1,0 +1,10 @@
+<Limit READ WRITE DIRS>
+        AllowUser guys
+        AllowUser msukha
+        AllowUser aharris
+        AllowUser ptagell
+        AllowUser stoch
+        AllowUser gilesng
+</Limit>
+AllowOverwrite yes
+

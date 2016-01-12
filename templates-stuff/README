@@ -1,0 +1,6 @@
+This directory contains several subdirectories containing the various components of the new University
+of Melbourne web templates. The html dir contains some index files that can be used as pure html templates. 
+It also contains sample header and footer html files for use in web applications, etc.
+For dreamweaver templates go to the top level directory /templates.
+
+All queries should be directed to the Webcentre: web-info@webcentre.unimelb.edu.au

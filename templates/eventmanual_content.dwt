@@ -1,0 +1,169 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/2000/REC-xhtml1-20000126/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>The Events Manual: Events Management: The University of Melbourne</title>
+<!-- TemplateEndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<!-- TemplateBeginEditable name="head" -->
+<meta name="DC.Title" content="Events Management" />
+<meta name="DC.Creator" content="Christina Chiam" />
+<meta name="UM.Creator.Email" content="cchiam@unimelb.edu.au" />
+<meta name="DC.Subject" content="Events Management and Protocol Guidelines at the University of Melbourne" />
+<meta name="Keywords" content="Events Coordination, Events Management, Events Manual , Events Protocol, Event Guidelines, Public Lectures, Seminars, Conferences, Security, Venues and Booking, Audio and Visual Requirements" />
+<meta name="DC.Description" content="Events Management and Protocol Guidelines at the University of Melbourne" />
+<meta name="Description" content="Events Coordination, Events Management, Events Manual , Events Protocol, Event Guidelines, Public Lectures, Seminars, Conferences, Security, Venues and Booking, Audio and Visual Requirements" />
+<meta name="DC.Publisher" content="Web Services Group, Information Division" />
+<meta name="DC.Contributor" content="Maureen O'Keefe" />
+<meta name="DC.Contributor" content="Anne Knight" />
+<meta name="DC.Contributor" content="Christina Chiam" />
+<meta name="DC.Date" content="2005-06-22" scheme="ISO 8601" />
+<meta name="UM.Date.ReviewDue" content="2006-01-22" scheme="ISO 8601" />
+<meta name="UM.Authoriser.Name" content="Maureen O'Keefe" />
+<meta name="UM.Authoriser.Title" content="Director, Office of the Vice-Chancellor" />
+<meta name="UM.Maintainer.Name" content="Web Services Group" />
+<meta name="UM.Maintainer.Department" content="Information Division" />
+<meta name="UM.Maintainer.Email" content="web-info@unimelb.edu.au" />
+<meta name="DC.Language" scheme="RFC 1766" content="en" />
+<!-- TemplateEndEditable -->
+<meta name="DC.Rights" content="http://www.unimelb.edu.au/disclaimer/" />
+<meta name="DC.Format" scheme="IMT" content="text/html" />
+<meta name="DC.Identifier" content="http://<!--#echo var='HTTP_HOST'--><!--#echo var='REQUEST_URI'-->" />
+<!--#config timefmt="%Y-%m-%d" --><meta name="DC.Date.Modified" scheme="ISO 8601" content="<!--#echo var='LAST_MODIFIED' -->" />
+<!-- START STYLE SHEET REFERENCES - DO NOT DELETE THE FOLLOWING TAG -->
+<link rel="stylesheet" href="/template-assets/styles/basic.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="/template-assets/styles/print.css" type="text/css" media="print" />
+<style type="text/css" media="screen">
+<!--
+    @import url("/template-assets/styles/compliant.css");
+-->
+</style>
+<script language="JavaScript" type="text/javascript" src="/template-assets/js/scripts.js"></script>
+<script language="JavaScript" type="text/javascript" src="/template-assets/js/menu.js"></script>
+<!-- TemplateBeginEditable name="styles" -->
+<script language="JavaScript" type="text/javascript">
+<!-- hide from old browsers
+// The folowing variable can be used to define a parent for pages below the 3rd level of the menu
+// var menuParent = "/aboutus/";
+// -->
+</script>
+<!-- TemplateEndEditable -->
+<script language="JavaScript" type="text/javascript">
+<!-- hide from old browsers
+function start(){ menuSet(); if (window.customStart) { customStart(); }}
+// -->
+</script>
+<!-- END STYLE SHEET REFERENCE -->
+<!-- The following Dreamweaver parameters set the visibility of the RHS image-->
+<!-- Use Modify - Template Properties to change the value -->
+<!-- TemplateParam name="side image" type="boolean" value="true" -->
+<!-- TemplateParam name="currentSection" type="text" value="noCurrentSection" -->
+<style type="text/css" media="screen">
+a#@@(currentSection)@@{color:#fef485;}
+</style>
+</head>
+<body onload="start()">
+<div id="top">
+<table border="0" width="100%" cellspacing="0" cellpadding="0" summary="This table contains the University branding bar and includes links to the top levels of the website, the University logo and the input box for the University search engine.">
+	<tr>
+      <td rowspan="3" width="135" class="logocell" valign="bottom"><!--#include virtual="/template-assets/includes/g_logo.html" -->
+      </td>
+      <td class="topnavcell" nowrap="nowrap" valign="bottom"><a href="#content" accesskey="c" title="Skip past navigation to main part of page"><img src="/template-assets/images/navbar_curve22.gif" align="top" hspace="0" vspace="0" border="0" width="55" height="22" alt="Skip past navigation to main part of page" /></a></td>
+      <td class="topnavcell" width="99%"><!--#include virtual="/template-assets/includes/g_uni_menu.html" -->
+	  </td>
+      <td class="topnavcell" nowrap="nowrap" align="right"><!--#include virtual="/template-assets/includes/g_search.html" -->
+      </td>
+    </tr>
+    <tr>
+      <td height="70" width="55">&nbsp;</td>
+      <td colspan="2" width="99%" valign="middle" class="banner"><!-- SELECT THE SSI FILE TO SUIT THE LAYOUT OF THE BRANDING SPACE -->
+          <!-- TemplateBeginEditable name="brandingspace" -->
+          <!--#include virtual="/events/template-assets-custom/includes/c_branding_space.html" -->
+        <!-- TemplateEndEditable --></td>
+    </tr>
+    <tr valign="top">
+      <td class="secondnavfill" height="29" colspan="3"><!--#include virtual="/events/template-assets-custom/includes/c_quick_links.html" -->
+      </td>
+    </tr>
+</table>
+</div>
+<div class="printonly">
+<img src="/template-assets/images/logo_print.gif" alt="" />
+</div>
+<!-- START MIDDLE SECTION -->
+<div id="midsection">
+
+<!-- TemplateBeginEditable name="breadcrumbs" -->
+<div id="breadcrumbs">
+<a href="/">Home</a>
+</div>
+<!-- TemplateEndEditable -->
+
+<table class="gridtable" cellpadding="0" cellspacing="0" border="0" summary="This table contains the main content of the page.">
+  <tr>
+				<td valign="top">
+					<!--#include virtual="/events/template-assets-custom/includes/c_menu.html" -->
+				</td>
+				<td class="divider" width="15" valign="top">
+					<img src="/template-assets/images/whitepixel.gif" alt="---" width="15" height="1" hspace="0" vspace="0" border="0" align="left" />
+				</td>
+				<td id="content" width="100%" valign="top">
+				<a name="content" id="content"></a>
+						<h1><!-- TemplateBeginEditable name="page title" -->Overview<!-- TemplateEndEditable --></h1>
+			            <!-- TemplateBeginEditable name="content" -->
+			  <p>This template applies to the top level University pages where the page
+			    contributes to core University activities and the presentation of the
+			    page adds to the public perception of the University. The navigation and
+			    branding elements situated at the top and bottom of the page are consistent
+			    across all pages. Typical visitors to these pages are prospective students,
+			    first year or returning students, alumni, university staff, staff from
+			    government, media, schools and members of the public.</p>
+						<!-- TemplateEndEditable --></td>
+				<!-- TemplateBeginIf cond="_document['side image']" -->
+				<td class="divider" width="15" valign="top">
+					<img src="/template-assets/images/whitepixel.gif" alt="---" width="15" height="1" hspace="0" vspace="0" align="top" />
+				</td>
+				<td class="sidebar" valign="top">
+						<!-- TemplateBeginEditable name="side image" -->
+						<img src="/template-assets/images/sample_image.jpg" width="156" height="215" alt="Tall poppy award winners" />
+						<!-- TemplateEndEditable -->
+						<div class="caption">
+						<!-- TemplateBeginEditable name="image caption" -->
+						<p>Caption for the image.</p>
+						<!-- TemplateEndEditable --></div></td>
+				<!-- TemplateEndIf -->
+	</tr>
+</table>
+<!--#include virtual="/template-assets/includes/topofpage.html" -->
+</div>
+<!-- END MIDDLE SECTION -->
+<!-- START BOTTOM SECTION -->
+<table width="100%" cellpadding="0" cellspacing="0" border="0" summary="This table contains links to University contact details and copyright, disclaimer, privacy and accessibility information.">
+ <tr>
+ <!--#include virtual="/events/template-assets-custom/includes/c_footbar_global_lhs.html" -->
+ <!--#include virtual="/template-assets/includes/g_subsite_footbar_rhs.html" -->
+ </tr>
+</table>
+<table width="100%" cellpadding="0" cellspacing="0" border="0" summary="This table contains contact details and information about this page.">
+	<tr>
+		<td id="author" class="footer">		 <p>
+			Date Created: <!-- TemplateBeginEditable name="Date Created" -->22 June 2005 <!-- TemplateEndEditable --><br />
+		   Last Modified: <!--#config timefmt="%d %B %Y %H:%M:%S %T" --><!--#echo var="LAST_MODIFIED" --><br />
+			Authorised By: <!-- TemplateBeginEditable name="Authoriser" -->Director, Office of the Vice-Chancellor<!-- TemplateEndEditable --><br />
+			Maintainer: <!-- TemplateBeginEditable name="Maintainer" -->Web Services Group, Information Division<!-- TemplateEndEditable --><br />
+		   Email: <!-- TemplateBeginEditable name="Email" --> <a href="mailto:web-info@unimelb.edu.au">web-info@unimelb.edu.au</a><!-- TemplateEndEditable --></p>  
+		</td>
+		<td id="legal" class="footer">
+		   <!--#include virtual="/template-assets/includes/g_footer.html" -->
+		   <!-- TemplateBeginEditable name="footer extras" -->
+		   <!-- Include file temporarily disabled -->
+		   <!-- include virtual="/template-assets/includes/c_footer_extras.inc" -->
+		   <!-- TemplateEndEditable -->
+		</td>
+	</tr>
+</table>
+<!-- END BOTTOM SECTION -->
+</body>
+<!-- TemplateEnd -->
+</html>

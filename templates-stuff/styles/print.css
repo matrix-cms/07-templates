@@ -1,0 +1,232 @@
+/* Fonts */
+ADDRESS, BLOCKQUOTE, BODY, CAPTION, CENTER, DD, DIR, DIV, DL, DT, FORM, LI, MENU, OL, P, PRE, TD, TH, TR, UL, SMALL
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12pt;
+	color: #000;
+}
+
+ADDRESS { font-style: italic; }
+BIG { font-size: 14pt; }
+CITE { font-style: italic; }
+CODE, KBD, SAMP, TT { font: 12pt "andale mono", courier, monospaced; }
+DT { font-weight: bold; }
+
+H1, H2, H3, H4, H5, H6
+{
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #586d9d;
+}
+
+H1 { font-size: 16pt; }
+H2 { font-size: 14pt; }
+H3 { font-size: 13pt; }
+H4 { font-size: 12pt; }
+H5 { font-size: 11pt; }
+H6 { font-size: 11pt; }
+
+HTML
+{
+	margin: 0;
+	padding: 0;
+}
+
+PRE
+{
+	margin-left: 0;
+	white-space: pre;
+}
+
+SMALL, SUB, SUP { font-size: 8pt; }
+TD { margin-left: 0; }
+
+TH
+{
+	font-weight: bold;
+	text-align: left;
+	margin-left: 0;
+}
+
+A { text-decoration: none; }
+
+/* ***************************************************************************** */
+/* This controls the color and behaviour of links within the content of the page */
+#content A:link
+{
+	color: #03c;
+	text-decoration: underline;
+}
+
+#content A:visited
+{
+	color: #606;
+	text-decoration: underline;
+}
+
+#content A:hover
+{
+	color: #c00;
+	background: #FF9;
+}
+
+#content A:active
+{
+	color: #600;
+	background: #cf9;
+}
+
+/* ***************************************************************************** */
+/* Whole of page styles */
+body
+{
+	background: #ffffff;
+	padding: 0 10% 0 10%;
+	margin: 0;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}
+
+/* ***************************************************************************** */
+/* Top section of page */
+#top { display: none; }
+
+
+/* ***************************************************************************** */
+/* Middle section of page */
+#midsection
+{
+	margin: 0;
+}
+
+#content h1, #content h2, #content h3
+{
+	margin: 0;
+	padding: 0 0 6pt 0;
+}
+
+#content h1
+{
+	color:#000;
+}
+
+/* ----------------------------------------------------------------------------- */
+/* Left Navigation (metal) Menu - Level <= 3*/
+.menutable { display: none; width:0pt; }
+
+
+/* ----------------------------------------------------------------------------- */
+/* Content areas of page */
+#content { }
+
+/* ----------------------------------------------------------------------------- */
+/* styles for the vertical divider line (table cell) */
+.divider
+{
+	background: #fff;
+	background-image:   url(/templates-stuff/images/divider_bg.gif);
+	background-repeat: repeat-y;
+}
+
+/* ----------------------------------------------------------------------------- */
+/* styles for the three column links layout */
+.gridtable tr, .gridtable td { vertical-align: top; }
+.unit { padding: 0 12px 12px 0; }
+
+.button h3
+{
+	color: #039;
+	margin: 0 0 0 3px;
+	padding: 0;
+	font-size: 12px;
+}
+
+.button h3 a
+{
+	color: #039;
+	margin: 0;
+	text-decoration: none;
+}
+
+.button h3 a:hover
+{
+	color: #c00;
+	background: #FF9;
+}
+
+.button ul
+{
+	margin: 0 0 0 -18px;
+	padding: 0;
+}
+
+.links a
+{
+	text-decoration: none;
+	line-height: 11px;
+	font-size: 11px;
+}
+
+.links li
+{
+	padding: 0;
+	margin: 0;
+	font-size: 11px;
+}
+
+.featlink a
+{
+	font-size: 10px;
+	text-decoration: none;
+}
+
+/* ----------------------------------------------------------------------------- */
+/* Styles for right sidebar */
+.sidebar
+{
+	width: 160px;
+	padding: 44px 0 0 0;
+}
+
+.sidebar p { margin: 0 0 12px 0; }
+
+.caption
+{
+	font-size: 10px;
+	font-weight: bold;
+	color: #666666;
+}
+
+/* ----------------------------------------------------------------------------- */
+/* Link to top of page */
+.toplink { display: none; }
+
+/* ***************************************************************************** */
+/* Bottom section of page */
+/* ----------------------------------------------------------------------------- */
+/* The blue bar at the foot of the page */
+.footbar { display: none; }
+
+/* ----------------------------------------------------------------------------- */
+/* The maintainer/author and legal info at foot of page */
+.footer
+{
+	width: 50%;
+	vertical-align: top;
+}
+
+.footer p
+{
+	font-size: 6pt;
+	color: #000;
+	padding: 6px 0 0 0;
+}
+
+.footer p a
+{
+	color: #666;
+	text-decoration: underline;
+}
+
+#legal { text-align: right; }

@@ -1,0 +1,171 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html lang="en">
+<head>
+
+<!-- This template will assist you in creating a web page in the standard 
+     University of Melbourne format. Please read the comments carefully.
+	 As a general rule, THINGS YOU CAN OR SHOULD REPLACE will be in uppercase -->
+
+<!-- The following tag is the TITLE of this page. Please replace the indicated
+     text with a descriptive title of what your page is about.  Do NOT delete
+	 the reference to 'The University of Melbourne' -->
+
+  <title>The University of Melbourne - ENTER YOUR PAGE TITLE HERE</title>
+  
+<!-- The following tags are "Meta" Tags. They provide search engines and other
+     programs with information that is useful for indexing this page.
+	 It is highly recommended that you fill in all of the data here in the places
+	 indicated -->
+	 
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+  <meta name="expiry-date" content="INSERT THE DATE THIS DOCUMENT EXPIRES AS FOLLOWS YYYY-MM-DD">
+  <meta name="maintained-by" content="INSERT THE NAME AND EMAIL ADDRESS OF THE PERSON WHO MAINTAINS THIS PAGE">
+  <meta name="authorised-by" content="INSERT THE NAME OF THE PERSON WHO AUTHORISED THIS DOCUMENT">
+  <meta name="author" content="INSERT YOUR NAME HERE">
+  <meta name="description" content="TYPE A BRIEF DESCRIPTION OF YOUR PAGE CONTENT HERE">
+  <meta name="keywords" content="TYPE UP TO TEN KEYWORDS HERE, SEPARATED BY COMMAS">
+  <meta name="last-modified" content="INSERT THE DATE THIS DOCUMENT WAS LAST MODIFIED AS FOLLOWS YYYY-MM-DD">
+  <meta name="distribution" content="global">
+
+<!-- The following tag is the reference to the University Cascading Style Sheet.
+     Do NOT delete this tag. -->
+  <LINK REL="Stylesheet" TYPE="text/css" href="http://www.unimelb.edu.au/css/default.css">
+
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000">
+
+<!-- The following table is an essential Heading Table -->
+<table border="0" width="580" cellpadding="0" cellspacing="0">
+  <tr>
+    <td colspan="3" width="580">
+
+<!-- The following table is a sub-table for the first strip of header graphics -->
+       <table border="0" width="100%" cellspacing="0" cellpadding="0">
+        <tr>
+          <td> <a href="http://websearch.its.unimelb.edu.au/"><img src="http://www.unimelb.edu.au/img/nav/search.gif" width="65" height="20" border="0" alt="Search"></a></td>
+          <td>
+		  <a href="/help/"><img src="http://www.unimelb.edu.au/img/nav/helpicon.gif" width="25" height="20" border="0" alt="Help"></a></td>
+          <td> <img src="http://www.unimelb.edu.au/img/nav/topbluebar.gif" width="490" height="20" border="0" alt="Blue Navigational Bar"></td>
+        </tr>
+      </table>
+<!-- End sub-table for the first strip of header graphics -->
+      
+    </td>
+  </tr>
+  <tr>
+    <td width="250" valign="top"><img src="/img/banners/leftbannerimg.jpg" width="250" height="90"  border="0" alt=" photo"> 
+    </td>
+    <td width="80"> <a href="/"><img src="http://www.unimelb.edu.au/img/logo/unimelblogo.gif" width="80" height="105" border="0" alt="University of Melbourne Logo"></a> 
+    </td>
+    <td width="250" valign="top"> <img src="/img/banners/rightbannerimg.jpg" width="250" height="90" border="0" alt=" photo"> 
+    </td>
+  </tr>
+</table>
+
+<!-- End header table -->
+
+<p> </p>
+
+<!-- The following table is for the Main Title -->
+<!-- If you have no heading please remove all text between
+     this tag and the 'End Main Title table' tag -->
+
+<table border="0" width="580" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="65" align="left" valign="top">
+	<img src="/img/nav/dotclear.gif" width="65" height="1" border="0" alt=" ">
+	</td>
+
+    <td width="515">
+
+<!-- Here you have another choice. You can either enter your own heading as text
+     or Select a Graphic Title from the choices available at:
+     http://www.unimelb.edu.au/img/titles/ -->
+
+<h1>
+REPLACE THIS STATEMENT WITH YOUR HEADING
+</h1>
+
+<p>
+OR
+</p>
+
+      insert graphic</td>
+  </tr>
+</table>
+<p></p>
+
+<!-- End Main Title table -->
+
+<!-- The following table is for your Links -->
+<!-- If you have no Links please remove all text between
+     this tag and the 'End Links table' tag -->
+<!-- Don't forget to link your bullets if you have any -->
+
+<table border="0" width="580" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="65" align="left" valign="top">
+	<a href="/"><img src="/img/bullets/bullet.gif" width="65" height="15"  border="0" alt="*"></a>
+    </td>
+    <td width="515" valign="top"> 
+<a href="/">REPLACE THIS LINK WITH YOUR LINK</a>
+    </td>
+  </tr>
+</table>
+<p></p>
+
+<!-- End Links table-->
+
+<!-- The following table is for the Main Body content of your page -->
+
+<!-- If you do not wish to use the table structure here to help format your page,
+     or if you have no body text, please remove all text between this tag and
+	 the 'End Main Body table' tag -->
+
+<table border="0" width="580" cellpadding="0" cellspacing="0">
+  <tr>
+    <!-- Leave this empty spacer here to force the margin -->
+    <td width="65" align="left" valign="top">
+	<img src="/img/nav/dotclear.gif" width="65" height="1"  border="0" alt=" ">
+    </td>
+
+    <!-- Use the following table cell for all of your page data -->
+	<td width="515" align="left"> 
+<p>PAGE DATA AND INFORMATION GOES IN HERE. REPLACE ALL OF THIS TEXT WITH YOUR TEXT, IMAGES, AND ANY HTML CODE YOU WISH TO ADD.</p>
+<p>PAGE DATA AND INFORMATION GOES IN HERE. REPLACE ALL OF THIS TEXT WITH YOUR TEXT, IMAGES, AND ANY HTML CODE YOU WISH TO ADD.</p>
+    </td>
+  </tr>
+</table>
+<!-- End Main Body table-->
+
+<p>
+IF YOU DO NOT WISH TO USE THE PAGE LAYOUT TABLES, DELETE THE TABLES YOU DO NOT NEED FROM ABOVE, AND PUT YOUR ADDITIONAL PAGE DATA, TEXT, IMAGES, INFORMATION, AND ANY HTML CODE YOU WISH TO ADD, IN HERE. REPLACE ALL OF THIS TEXT WITH YOUR TEXT.</p>
+
+<!-- The following line inserts the Quick Jump menus.
+     Do not delete the following line -->
+<!--#include virtual="/include/footer/footer.htm" -->
+
+<!-- start author block -->
+<!-- Please include the date of Creation, who Authorised, and who Maintains
+     this document in the fields below. Also, please insert the Maintainer's
+	 contact Email address in the appropriate place. -->
+
+<div class="authorblock">
+<!--#config timefmt="%1e %B %Y" -->
+
+<pre>
+Created: INSERT CREATION DATE HERE e.g. 30 July, 1968
+Last modified: <!--#flastmod virtual="${DOCUMENT_NAME}" -->
+Authorised by: e.g. Director, Some Department.
+</pre>
+  <address> Maintained by: Joe Bloggs, Department. <br>
+Email: <a href="mailto:j.bloggs@unimelb.edu.au">j.bloggs@unimelb.edu.au</a>
+</address>
+
+</div>
+
+<!-- end author block -->
+
+</body>
+</html>

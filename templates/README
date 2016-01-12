@@ -1,0 +1,17 @@
+This directory contains dreamweaver templates for variations of the new University of Melbourne Templates.
+
+To use these templates you will also need the directory templates-stuff. The templates-stuff directory contains the images, javascript and stylesheets that make up the actual templates. It also contains a html directory which contains plain HTML versions of the templates and also sample header and footer files that could be used for web applications or SSI's.
+
+/templates-stuff
+|-- html
+|-- images
+|-- includes
+|-- js
+`-- styles
+
+The templates-stuff directory should be installed in the webserver document root for the templates to function correctly.
+
+The file templates.zip contains both the Dreamweaver templates and the images, styles and html that make up the templates.
+This is simply the contents of the directories /templates and /templates-stuff.
+
+Any queries should be directed to: templates@webcentre.unimelb.edu.au

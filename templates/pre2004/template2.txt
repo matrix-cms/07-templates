@@ -1,0 +1,121 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html lang="en">
+<head>
+<!-- This template will assist you in creating a web page in the standard 
+     University of Melbourne format. Please read the comments carefully.
+     As a general rule, THINGS YOU CAN OR SHOULD REPLACE will be in uppercase -->
+  <title>The University of Melbourne - Insert Title Here</title>
+  
+<!-- The following tags are "Meta" Tags. They provide search engines and other
+     programs with information that is useful for indexing this page.
+     It is highly recommended that you fill in all of the data here in the places
+     indicated -->
+         
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+  <meta name="expiry-date" content="INSERT THE DATE THIS DOCUMENT EXPIRES AS FOLLOWS YYYY-MM-DD">
+  <meta name="maintained-by" content="INSERT THE NAME AND EMAIL ADDRESS OF THE PERSON WHO MAINTAINS THIS PAGE">
+  <meta name="authorised-by" content="INSERT THE NAME OF THE PERSON WHO AUTHORISED THIS DOCUMENT">
+  <meta name="author" content="INSERT YOUR NAME HERE">
+  <meta name="description" content="TYPE A BRIEF DESCRIPTION OF YOUR PAGE CONTENT HERE">
+  <meta name="keywords" content="TYPE UP TO TEN KEYWORDS HERE, SEPARATED BY COMMAS">
+  <meta name="last-modified" content="INSERT THE DATE THIS DOCUMENT WAS LAST MODIFIED AS FOLLOWS YYYY-MM-DD">
+  <meta name="distribution" content="global">
+
+<!-- The following tag is the reference to the University Cascading Style Sheet.
+     Do NOT delete this tag. -->
+  <LINK REL="Stylesheet" TYPE="text/css" href="http://www.unimelb.edu.au/css/default.css">
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000">
+
+<!-- The following table is an essential Heading Table -->
+<table border="0" width="580" cellpadding="0" cellspacing="0">
+  <tr>
+    <td colspan="3" width="580">
+<!-- StandardBar START -->
+  <table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tr bgcolor="#000066">
+    <td><a href="http://websearch.its.unimelb.edu.au/"><img src="http://www.unimelb.edu.au/img/sitebar/search.gif" width="49" height="20" border="0" alt="Search"></a></td>
+    <td><img src="http://www.unimelb.edu.au/img/sitebar/sep.gif" width="6" height="20" border="0" alt=" | "></td>
+    <td><a href="http://www.unimelb.edu.au/az/azdirectory/"><img src="http://www.unimelb.edu.au/img/sitebar/az.gif" width="82" height="20" border="0" alt="A-Z Directory"></a></td>
+    <td><img src="http://www.unimelb.edu.au/img/sitebar/sep.gif" width="6" height="20" border="0" alt=" | "></td>
+    <td><a href="http://www.unimelb.edu.au/contact/contact.html"><img src="http://www.unimelb.edu.au/img/sitebar/con.gif" width="108" height="20" border="0" alt="Contacting People"></a></td>
+    <td><img src="http://www.unimelb.edu.au/img/sitebar/sep.gif" width="6" height="20" border="0" alt=" | "></td>
+    <td><a href="http://www.unimelb.edu.au/about/"><img src="http://www.unimelb.edu.au/img/sitebar/about.gif" width="56" height="20" border="0" alt="About Us"></a></td>
+    <td><img src="http://www.unimelb.edu.au/img/sitebar/fill.gif" width="266" height="20" border="0" alt=" "></td>
+  </tr>
+  </table>
+<!-- StandardBar END -->
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" width="580">
+<!-- The following table is a sub-table for the second strip of header graphics and text heading -->
+      <table border="0" width="100%" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="65" valign="top"> <img src="/img/banners/dotblue.gif" width="65" height="90"  border="0" alt=" coloured square"></td>
+          <td width="80" valign="top"> <a href="/"><img src="http://www.unimelb.edu.au/img/logo/unimelblogo.gif" width="80" height="105" border="0" alt=" University of Melbourne Logo"></a></td>
+		  <td width="20" valign="top">
+		  		  <img src="/img/nav/dotclear.gif" width="20" height="1" border="0" alt=" "></td>
+          <td width="415" valign="top">
+			  	  <img src="/img/nav/dotclear.gif" width="1" height="40" border="0" alt=" ">
+				  <font size=6>Enter your Title Here</font></td>
+        </tr>
+      </table>
+<!-- End sub-table for the second strip of header graphics and text heading -->
+      
+    </td>
+  </tr>
+</table>
+<!-- End header table -->
+
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p><table border="0" width="580" cellpadding="0" cellspacing="0">
+  <tr>
+    <!-- Leave this empty spacer here to force the margin --> 
+    <td width="65" align="left" valign="top"> <img src="/img/nav/dotclear.gif" width="65" height="1"  border="0" alt=" "> 
+    </td>
+
+    <!-- Use the following table cell for all of your page data --> 
+     <td width="515" align="left"> 
+
+      <p>Enter your page data here</p>
+      <p>Enter your page data here</p>
+      <p>Enter your page data here</p>
+      <p>Enter your page data here</p>
+
+    <!-- End page data section --> 
+    </td>
+  </tr>
+</table>
+
+
+<!-- The following line inserts the Quick Jump menus.
+     Do not delete the following line -->
+<!--#include virtual="/include/footer/footer.htm" -->
+
+<!-- start author block -->
+<!-- Please include the date of Creation, who Authorised, and who Maintains
+     this document in the fields below. Also, please insert the Maintainer's
+	 contact Email address in the appropriate place. -->
+
+<div class="authorblock">
+<!--#config timefmt="%e %B %Y" -->
+
+<pre>
+Created: INSERT CREATION DATE HERE e.g. 30 July, 1968
+Last modified: <!--#flastmod virtual="${DOCUMENT_NAME}" -->
+Authorised by: e.g. Director, Some Department.
+</pre>
+  <address> Maintained by: Joe Bloggs, Department. <br>
+Email: <a href="mailto:j.bloggs@unimelb.edu.au">j.bloggs@unimelb.edu.au</a>
+</address>
+
+</div>
+
+<!-- end author block -->
+
+</body>
+</html>

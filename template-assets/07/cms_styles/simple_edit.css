@@ -1,0 +1,81 @@
+/* simple edit styles - here for testing only */
+div#content div#content {margin:0; padding:0;}
+
+#content div#cmsscreenmenu
+{
+	border-bottom: 1px solid #666666;
+	height: 24px;
+	margin: 0;
+	padding: 0;
+	position: relative;
+	width:50em;
+}
+
+#cmsscreenmenu ul
+{
+	left: 0;
+	margin: 0;
+	padding: 0 0 0 5%;
+	position: absolute;
+	top: 0;
+	width: 95%;
+}
+
+#cmsscreenmenu li
+{
+	display: inline;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+#cmsscreenmenu li a
+{
+	background-color: #DDDDDD;
+	border-color: #666666;
+	border-style: solid;
+	border-width: 1px 1px 0;
+	display: block;
+	float: left;
+	height: 21px;
+	margin: 0 5px 0 0;
+	padding: 2px 5px 0;
+}
+
+#cmsscreenmenu ul li a:link, #cmsscreenmenu ul li a:visited
+{
+	color: #333333;
+	text-decoration: none;
+}
+
+#cmsscreenmenu ul li a:hover { background-color: #EEEEEE; }
+
+#cmsscreenmenu li a.selected
+{
+	background-color: #FFFFFF;
+	border-bottom: 1px solid white;
+	font-weight: bold;
+	height: 22px;
+}
+
+#cmsscreenmenu li.logout
+{
+	position: absolute;
+	right: 44px;
+	top: -1px;
+}
+
+#cmsscreenmenu li.logout a
+{
+	border-color: red;
+	color: #990000;
+}
+
+#cmsscreenmenu li.logout a:hover
+{
+	background-color: red;
+	color: #fff;
+}
+
+#cmschangestatus input { display: none; }
+#content #htmlarea div, #content #htmlarea table { padding:0; }

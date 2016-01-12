@@ -1,0 +1,194 @@
+/* this style sheet contains styles which need to be hidden from netscape 4.7 */
+
+/* ***************************************************************************** */
+/* Whole of page styles */
+body
+{
+	padding-bottom: 10px;
+	width: 100%;
+}
+
+/* ***************************************************************************** */
+/* Top section of page */
+
+.topnav, .topnav A
+{
+	line-height: 18px;
+}
+
+/* ***************************************************************************** */
+/* Middle section of page */
+
+/* ----------------------------------------------------------------------------- */
+/* Left Navigation (metal) Menu - Level <= 3*/
+
+.menu ul, .menu li
+{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	border: none;
+}
+
+.menu a
+{
+	font-size: 12px;
+	line-height: 12px;
+	display: block;
+	padding: 4px 3px 4px 12px;
+	border-top: 1px solid #999;
+	text-indent: -12px;
+}
+
+.submenu a
+{
+	border-top: none;
+	padding-left: 24px;
+	font-size: 11px;
+}
+
+.menu a:before
+{
+	content:   url(/templates-stuff/images/bullet.gif);
+}
+
+.menu a:hover
+{
+	background-color: #ddd;
+	color: #000;
+}
+
+/* ----------------------------------------------------------------------------- */
+/* styles for the three column links layout */
+
+.button
+{
+	width: 152px;
+	margin-bottom: 6px;
+	font-size: 11px;
+	float: right;
+}
+
+.button ul
+{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	border: none;
+}
+
+.button li { margin: 0; }
+
+.button li a
+{
+	display: block;
+	padding: 2px 3px 2px 12px;
+	text-indent: -9px;
+	color: #039;
+	text-decoration: none;
+	width: 100%;
+}
+
+html>body .button li a { width: auto; }
+
+.button li a:before
+{
+	content: "\00B7\0020";
+}
+
+.button li a:hover
+{
+	background-color: #ff9;
+	color: #c00;
+}
+
+.unit
+{
+	width: 235px;
+	font-size: 10px;
+	margin: 0;
+	padding: 0 12px 12px 0;
+}
+
+.homebutton
+{
+	width: 127px;
+	margin-bottom: 6px;
+	font-size: 11px;
+	float: right;
+}
+
+.homebutton ul
+{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	border: none;
+}
+
+.homebutton li { margin: 0; }
+
+.homebutton li a
+{
+	display: block;
+	padding: 2px 3px 2px 12px;
+	text-indent: -9px;
+	color: #039;
+	text-decoration: none;
+	width: 100%;
+}
+
+html>body .homebutton li a { width: auto; }
+
+.homebutton li a:before
+{
+	content: "\00B7\0020";
+}
+
+.homebutton li a:hover
+{
+	background-color: #ff9;
+	color: #c00;
+}
+
+.homeunit
+{
+	width: 210px;
+	font-size: 10px;
+	margin: 0;
+	padding: 0 12px 18px 0;
+}
+
+.icon
+{
+	width: 75px;
+	height: 75px;
+	border: 0;
+	margin: 0;
+	padding: 0;
+	float: left;
+}
+
+.featlink
+{
+	clear: both;
+	width: 230px;
+	border: 0;
+	margin: 0;
+	padding: 0;
+}
+
+.featlink a
+{
+	display: block;
+	padding: 0 0 0 16px;
+	text-indent: -12px;
+	color: #039;
+	text-decoration: none;
+	width: 95%;
+}
+
+.featlink a:hover { text-decoration: underline; }
+.featlink a:before { content: url("/templates-stuff/images/tiny_arrow.gif"); }
+
+/* ----------------------------------------------------------------------------- */

@@ -1,0 +1,531 @@
+/* this style sheet contains styles which need to be hidden from netscape 4.7 */
+
+/* ***************************************************************************** */
+/* Whole of page styles */
+body
+{
+ padding-bottom: 10px;
+ width: 100%;
+ position: absolute;
+}
+
+/* ***************************************************************************** */
+/* Top section of page */
+
+.topnav, .topnav A
+{
+ line-height: 18px;
+}
+
+/* ----------------------------------------------------------------------------- */
+/* Banner */
+
+.banner
+{
+ background-image: url(/template-assets/images/globalimage.gif);
+ background-repeat: no-repeat;
+ background-position:top right;
+}
+
+.banner img {
+ display:none;
+}
+
+.partnershipbanner
+{
+ background-repeat: no-repeat;
+ background-position:top right;
+}
+
+.partnershipbanner img {
+ display:none;
+}
+
+
+/* ----------------------------------------------------------------------------- */
+/* styles for the three column links layout */
+.unit
+{
+ width: 220px;
+ height: auto;
+ font-size: 10px;
+ margin: 0;
+ padding: 0 12px 12px 0;
+}
+
+.icon
+{
+ width: 75px;
+ height: 75px;
+ border: 0;
+ margin: 0;
+ padding: 0;
+ float: left;
+}
+
+.button
+{
+ width: 142px;
+ margin-bottom: 6px;
+ font-size: 11px;
+ float: right;
+ padding: 0;
+}
+
+.button ul
+{
+ width: 140px;
+ margin-left: 4px;
+ list-style-image: url(/template-assets/images/bullet.gif);
+ voice-family: "\"}\"";
+  /* trick WinIE4/5 into thinking the rule is over */
+    voice-family: inherit;   
+  /* recover from trick */
+ margin-left: 24px;
+}
+
+.button ul li
+{
+ padding-bottom: 3px;
+}
+
+.links a:hover
+{
+ color: #c00;
+ text-decoration: underline;
+}
+
+html>body .button ul
+{
+ list-style: none;
+ margin: 0;
+ padding: 0;
+}
+
+html>body .links li
+{
+ margin: 0px 3px 0px 14px;
+}
+
+html>body .links li a
+{
+ color: #03c;
+ text-decoration: none;
+ text-indent: -9px;
+ width: auto;
+ border: none;
+ display: block;
+}
+
+html>body .links li a:hover
+{
+ text-decoration: none;
+}
+
+html>body .links li a:before { content: url(/template-assets/images/bullet.gif); }
+
+.clear
+{
+ clear: both;
+ height: 1px;
+ width: auto;
+ border: 0;
+ margin: 0;
+}
+
+.featlink
+{
+ clear: both;
+ width: 230px;
+ border: 0;
+ margin: 0;
+}
+
+.featlink, .featlink a
+{
+ padding: 0;
+ color: #03c;
+ text-decoration: none;
+ width: 95%;
+}
+
+.featlink a:hover { text-decoration: underline; color: #c00;}
+
+.featlink:before { content: url(/template-assets/images/tiny_arrow.gif); }
+
+/* ----------------------------------------------------------------------------- */
+
+
+.footbar p
+{
+ margin: 5px 20px 5px 20px;
+}
+
+/* ----------------------------------------------------------------------------- */
+
+.formbox td {
+ padding: 6px;
+ border-top: 1px dotted #999;
+}
+.formbox input {
+ border: solid 1px #7898B5;
+ width: 250px;
+}
+.formbox textarea {
+ border: solid 1px #7898B5;
+ width: 250px;
+}
+.formbox select {
+ border: solid 1px #7898B5;
+ width: 250px;
+}
+.formbox input.formbutton {
+ margin-top: 10px;
+ font: 12px Verdana, Arial, Helvetica, sans-serif;
+ color: #333;
+ border: solid 1px #7898b5;
+ width: auto;
+}
+.formerrormessage {
+ border: solid 1px #c00;
+ padding: 4px;
+ margin: 0 0 10px 0;
+ background: #ffff66;
+}
+
+/* ---------------------- menu styles -------------------------------------------*/
+#menu {
+ padding-right: 0px;
+ padding-left: 0px;
+ width: 150px;
+ padding-top: 0px;
+}
+#menu ul {
+ padding: 0px;
+ margin: 0;
+ border: none;
+ list-style-type: none;
+}
+#menu li {
+ list-style-image: none;
+ margin: 0px;
+ padding: 4px 0px 4px 0px;
+ border-top: 1px solid #666; 
+ list-style-type: none;
+}
+#menu li img {
+ padding-left: 2px;
+}
+#menu li a {
+ padding-right: 0;
+ padding-left: 0;
+ color: #333;
+ text-decoration: none;
+}
+
+/* Fixes extra spacing bug in IE mac */
+@media all {
+ #menu li a {
+   vertical-align: top;
+ }
+}
+
+#menu li.last {
+ border-bottom: #666 1px solid;
+}
+
+/* level 2 nested list items*/
+
+
+#menu li li {
+ margin: 0px;
+ padding-left: 13px;
+ border-top: 1px solid #66f; 
+}
+
+#menu li li a {
+ padding-right: 0;
+ padding-left: 0;
+ text-decoration: none;
+ color: #33c;
+}
+
+
+#menu li ul {
+ background: #f0f0f0;
+}
+
+/* Hidden from IE PC */
+#menu li>ul {
+ margin-top: 4px;
+}
+
+
+#menu li li ul {
+ background: #f0f0f0;
+}
+
+/* level 3 nested list items*/
+
+
+#menu li li li {
+ margin: 0px;
+ /* This is for IE 6 */
+ border-color: #f0f0f0; 
+}
+
+/* Hidden from IE PC */
+#menu li>ul>li>ul {
+ margin-top: 4px;
+}
+
+#menu li li li a {
+ padding-right: 0;
+ padding-left: 0;
+ padding-top: 4px;
+ text-decoration: none;
+ color: #33c;
+}
+
+/* link hover behaviour */
+
+#menu li a:hover {
+ color: #c00;
+ text-decoration: underline;
+}
+#menu li li a:hover {
+ color: #c00;
+ text-decoration: underline;
+}
+#menu li li li a:hover {
+ color: #c00;
+ text-decoration: underline;
+ background: #f0f0f0;
+}
+
+/* highlighted current page and headers */
+
+.current {
+ font-weight:bold;
+}
+
+#cursec {
+ background: #ced4d6;
+}  
+
+#tempsec {
+ background: #dee5e6;
+}
+
+/* ***************************************************************************** */
+/* SUBSITE HOMEPAGE STYLES - from unimelb homepage layout*/
+/* ***************************************************************************** */
+
+.homebutton
+{
+ width: 127px;
+ margin-bottom: 6px;
+ font-size: 11px;
+ float: right;
+}
+
+.homebutton ul
+{
+ list-style: none;
+ margin: 0;
+ padding: 0;
+ border: none;
+}
+
+.homebutton li { margin: 0; }
+
+.homebutton li a
+{
+ display: block;
+ padding: 2px 3px 2px 12px;
+ text-indent: -9px;
+ color: #03c;
+ text-decoration: none;
+ width: 100%;
+}
+
+html>body .homebutton li a { width: auto; }
+
+.homebutton li a:before
+{
+ content: "\00B7\0020";
+}
+
+.homebutton li a:hover
+{
+ color: #c00;
+}
+
+.homeunit
+{
+ width: 210px;
+ font-size: 10px;
+ margin: 0 0 0 0;
+ padding: 0 12px 20px 0;
+}
+
+.homeicon
+{
+ width: 75px;
+ height: 75px;
+ border: 0;
+ margin: 0;
+ padding: 0;
+ float: left;
+}
+
+.clear
+{
+ clear: both;
+ height: 1px;
+ width: auto;
+ border: 0;
+ margin: 0;
+}
+
+.homefeatlink
+{
+ clear: both;
+ width: 210px;
+ border: 0;
+ margin: 0;
+}
+
+.homefeatlink, .homefeatlink a
+{
+ padding: 0;
+ color: #03c;
+ text-decoration: none;
+ width: 95%;
+}
+
+.homefeatlink a:hover { text-decoration: underline; color: #c00;}
+
+.homefeatlink:before { content: url(/template-assets/images/tiny_arrow.gif); }
+
+.fullbox
+{
+ background: #fff;
+ border-right: solid 1px #666;
+ border-bottom: solid 1px #666;
+ border-left: solid 1px #666;
+ border-top: solid 1px #666;
+ padding: 10px 8px 10px 8px;
+}
+
+.boxtitle { 
+ margin: 0;
+ padding: 10px 0 15px 6px; 
+}
+
+.homebox ul
+{
+ padding: 0;
+ margin: 6px 0 0 30px;
+}
+
+.homebox li
+{
+ margin: 0;
+ padding: 0;
+}
+
+/* START INTERNAL STYLES */
+
+#itop
+{
+ padding: 0;
+ margin: 0;
+ background-color: #113a70;
+ background-image: url(/template-assets/images/internal_bg_image.jpg);
+ background-repeat: no-repeat;
+ background-position: left top;
+}
+
+#itop table
+{
+ background-image: url(/template-assets/images/internal_top_bg.gif);
+ background-repeat: repeat-x;
+ background-position: left top;
+}
+
+.topcell
+{
+ background-color: transparent;
+}
+
+.internalsecondnav
+{
+ padding: 4px 20px 0 0;
+}
+
+.searchboxtop
+{
+ border-top: solid 1px #ccc;
+ padding: 3px 0 0 0;
+}
+.searchboxtl 
+{
+ background: url(/template-assets/images/searchbox_tl.gif) no-repeat top left;
+}
+.searchboxtr 
+{
+ border-right: solid 1px #ccc;
+ border-top: solid 1px #ccc;
+}
+.searchboxbl 
+{
+ border-left: solid 1px #ccc;
+ border-bottom: solid 1px #ccc;
+}
+.searchboxbr 
+{
+ border-right: solid 1px #ccc;
+ border-bottom: solid 1px #ccc;
+}
+
+.searchnav, .searchnav A
+{
+ text-align: left;
+ border-bottom: solid 1px #ccc;
+ padding: 3px 0 3px 0;
+}
+
+#imidsection
+{
+ margin: 0;
+ padding: 12px 0 12px 0;
+ background-image: url(/template-assets/images/internal_content_bg_blue.gif);
+}
+
+.internalrightmenuedge
+{
+ border-right: solid 1px #666;
+}
+
+#contenttable, #contenttable h3, #contenttablecell h3
+{
+ margin: 0 0 6px 0;
+ padding: 0;
+}
+
+.contentboxcell
+{
+ background: #fff;
+ border-left: solid 1px #666;
+ border-bottom: solid 1px #666;
+ padding: 4px 10px 12px 10px;
+}
+
+.isidebar
+{
+ width: 160px;
+ padding: 30px 0 0 0;
+}
+
+/* END INTERNAL STYLES */

@@ -1,0 +1,51 @@
+<!-- InstanceBegin template="/templates/menu_lib.dwt" codeOutsideHTMLIsLocked="false" --><table border="0" width="162" cellspacing="0" cellpadding="0" class="menutable">
+          <tr valign="top"> 
+            <td id="menuhead" width="150"><h3><!-- InstanceBeginEditable name="menu header" -->Menu
+            Heading<!-- InstanceEndEditable --></h3></td>
+            <td rowspan="2" id="rightmenuedge"> <img src="/templates-stuff/images/top_right_cnr.gif" alt="" width="12" height="20" hspace="0" vspace="0" border="0" align="top" /> 
+            </td>
+          </tr>
+          <tr valign="top"> 
+            <td class="menu"> 
+			  	  <ul>
+				  <!-- InstanceBeginRepeat name="menu item" --><!-- InstanceBeginRepeatEntry -->
+				  <li><!-- InstanceBeginEditable name="menu item" --><a href="../../index.html">Example
+						Menu Item</a><!-- InstanceEndEditable -->
+					  <ul class="submenu">
+						<!-- InstanceBeginRepeat name="submenu item" --><!-- InstanceBeginRepeatEntry -->
+						<li><!-- InstanceBeginEditable name="submenu item" --><a href="../../index3.html">Example
+							  Submenu Item</a><!-- InstanceEndEditable --> </li>
+						<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry -->
+						<li><!-- InstanceBeginEditable name="submenu item" --><a href="../../index3.html">Example
+							  Submenu Item</a><!-- InstanceEndEditable --> </li>
+						<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry -->
+						<li><!-- InstanceBeginEditable name="submenu item" --><a href="../../index3.html">Example
+							  Submenu Item</a><!-- InstanceEndEditable --> </li>
+						<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->
+					  </ul>
+				  </li>
+				  <!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry -->
+				  <li><!-- InstanceBeginEditable name="menu item" --><a href="../../index.html">Example
+						Menu Item</a><!-- InstanceEndEditable -->
+					  <ul class="submenu">
+						<!-- InstanceBeginRepeat name="submenu item" --><!-- InstanceBeginRepeatEntry -->
+						<li><!-- InstanceBeginEditable name="submenu item" --><a href="../../index3.html">Example
+							  Submenu Item</a><!-- InstanceEndEditable --> </li>
+						<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry -->
+						<li><!-- InstanceBeginEditable name="submenu item" --><a href="../../index3.html">Example
+							  Submenu Item</a><!-- InstanceEndEditable --> </li>
+						<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->
+					  </ul>
+				  </li>
+				  <!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->
+				  </ul>
+			  
+            </td>
+          </tr>
+          <tr> 
+            <td id="lwrmenuedge"> <img src="/templates-stuff/images/lwr_left_cnr.gif" alt="" width="12" height="12" hspace="0" vspace="0" border="0" align="top" /> 
+            </td>
+            <td> <img src="/templates-stuff/images/lwr_right_cnr.gif" alt="" width="12" height="12" hspace="0" vspace="0" border="0" align="top" /> 
+            </td>
+          </tr>
+</table><!-- InstanceEnd -->

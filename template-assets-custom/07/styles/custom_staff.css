@@ -1,0 +1,36 @@
+/* accent effects the background colour of several items in the internal template */
+.accent {
+	background-color: #0099FF;
+}
+
+/* the border color of the footer bar can optionally be matched to the accent color */
+#metalinks
+{
+	border-bottom-color: #0099FF;
+	border-top-color: #0099FF;
+}
+
+#top /* the background banner image */
+{
+	background-image: url("http://www.unimelb.edu.au/template-assets/07/images/banner/001.jpg");
+}
+
+/* home page icons */
+/* use classes on the divs which already have an 'icon' class to refer to an individual icon image */
+
+#nav div.section1 {
+	background-image: url("http://www.unimelb.edu.au/template-assets/07/images/icons/029.jpg");
+}
+#nav div.section2 {
+	background-image: url("http://www.unimelb.edu.au/template-assets/07/images/icons/056.jpg");
+}
+#nav div.section3 {
+	background-image: url("http://www.unimelb.edu.au/template-assets/07/images/icons/074.jpg");
+}
+#nav div.section4 {
+	background-image: url("http://www.unimelb.edu.au/template-assets/07/images/icons/049.jpg");
+}
+#nav div.section5 {
+	background-image: url("http://www.unimelb.edu.au/template-assets/07/images/icons/006.jpg");
+	margin-top:80px;
+}

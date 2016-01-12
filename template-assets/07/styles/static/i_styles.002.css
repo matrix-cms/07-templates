@@ -1,0 +1,110 @@
+/* the top div */
+#internal #top
+{
+	background-color: #fff;
+	height: 85px;
+	background-image: url("http://www.unimelb.edu.au/template-assets/07/images/i_swirl.png");
+	background-repeat: no-repeat;
+	background-position: 100% 0;
+}
+
+#homelink
+{
+	width: 1002px;
+	height: 85px;
+	background-image: url("http://www.unimelb.edu.au/template-assets/07/images/i_logo.gif");
+	background-repeat: no-repeat;
+	background-position: 100% 6px;
+	color: #fff;
+}
+
+#top h1
+{
+	height: 85px;
+	margin: 0 0 0 120px;
+	padding: 0;
+	font-size: 2em;
+	letter-spacing: 2px;
+	font-weight: normal;
+	color: #036;
+	position: relative;
+	/* more in ie-win-5-6.css */
+}
+
+#top h1 a
+{
+	position: absolute;
+	top: 40px;
+	text-decoration: none;
+	color: #036;
+}
+
+#top h1 a.no-dept { top: 30px; }
+#top h1 a:hover, #top h1 span a:hover { color: #c00; }
+
+#top h1 span
+{
+	position: absolute;
+	top: 20px;
+	font-size: 60%;
+}
+
+#top h1 span a
+{
+	position: relative;
+	top: 0;
+}
+
+/* the global search bar */
+#top #global-bar
+{
+	background-image: url("http://www.unimelb.edu.au/template-assets/07/images/i_search_bg.png");
+}
+
+#top #global-bar form .searchtext { width: 8em; }
+
+#global-bar label
+{
+	color: #666;
+	font-weight: bold;
+}
+
+/* breadcrumb styles */
+#breadcrumbs
+{
+	background-color: #eee;
+	margin: 0;
+	height: 20px;
+	font-size: 95%;
+	color: #666;
+	margin-left: 210px;
+	padding: 8px 1.5em 0 30px;
+}
+
+/* menu styles */
+#menu
+{
+	background-color: #ddd;
+}
+
+#menu h2
+{
+	margin: 0;
+	height: 24px;
+	font-size: 1.2em;
+	color: #369;
+	padding: 4px 0 0 18px;
+	background-color: #ccc;
+}
+
+#menu li
+{
+	border-bottom: 1px solid #bbb;
+}
+
+#menu li li
+{
+	border-top: dotted 1px #bbb;
+}
+
+/* content styles */

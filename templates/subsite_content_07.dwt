@@ -1,0 +1,98 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Page Title : Site Title : The University of Melbourne</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<meta name="DC.Rights" content="http://www.unimelb.edu.au/disclaimer/" />
+<meta name="DC.Format" scheme="IMT" content="text/html" />
+<meta name="DC.Identifier" content="http://<!--#echo var='HTTP_HOST'--><!--#echo var='REQUEST_URI'-->" />
+<!--#config timefmt="%Y-%m-%d" --><meta name="DC.Date.Modified" scheme="ISO 8601" content="<!--#echo var='LAST_MODIFIED' -->" />
+
+<!-- style sheets -->
+	<link rel="stylesheet" type="text/css" href="http://www.unimelb.edu.au/template-assets/07/styles/stub.css" media="screen, projection" />
+	<link rel="stylesheet" type="text/css" href="http://www.unimelb.edu.au/template-assets/07/styles/handheld.css" media="handheld" />
+	<link rel="stylesheet" type="text/css" href="http://www.unimelb.edu.au/template-assets/07/styles/print.css" media="print" />
+	<link rel="stylesheet" type="text/css" href="/template-assets-custom/07/styles/custom.css" media="screen, projection" />
+<!--[if lt IE 7.]>
+	<link rel="stylesheet" href="http://www.unimelb.edu.au/template-assets/07/styles/ie-win-5-6.css" type="text/css" media="screen" />
+<![endif]-->
+<!-- javascript -->
+	<script language="JavaScript" type="text/javascript" src="http://www.unimelb.edu.au/template-assets/07/js/core.js"></script>
+<!-- TemplateBeginEditable name="styles" -->
+<!-- TemplateEndEditable -->
+<!-- TemplateParam name="side image" type="boolean" value="false" -->
+</head>
+
+<body id="standard">
+<div id="top">
+	<ul id="skipmenu">
+		<li class="skiplink"><a href="#menu" accesskey="m">Skip to navigation</a></li>
+		<li class="skiplink"><a href="#content" accesskey="c">Skip to content</a></li>
+		<li><a href="http://www.unimelb.edu.au/" id="homelink" accesskey="h">University home page</a></li>
+	</ul>
+	<h1><!-- TemplateBeginEditable name="brandingspace" --><!--#include virtual="/template-assets-custom/07/includes/branding_space.html" --><!-- TemplateEndEditable --></h1>
+	<div id="global-bar">
+<!--#include virtual="/template-assets/07/includes/uni_menu.html" -->
+<!--#include virtual="/template-assets/07/includes/uni_search.html" -->
+	</div>
+</div>
+
+<div id="quicklinks" class="accent">
+<!-- TemplateBeginEditable name="quicklinks" -->
+<!--#include virtual="/template-assets/07/includes/quicklinks.html" -->
+<!-- TemplateEndEditable -->
+</div>
+
+<!-- TemplateBeginEditable name="breadcrumbs" -->
+	<div id="breadcrumbs"><a href="/">Site home</a></div>
+<!-- TemplateEndEditable -->
+
+<div id="menu">
+<!-- TemplateBeginEditable name="menu" -->
+<!--#include virtual="/template-assets-custom/07/includes/menu.html" -->
+<!-- TemplateEndEditable -->
+</div>
+
+<!-- TemplateBeginIf cond="_document['side image']" -->
+<div id="sidebar">
+	<!-- TemplateBeginEditable name="side image" -->
+		<img src="/template-assets/images/sample_image.jpg" width="156" height="215" alt="alt text" />
+	<!-- TemplateEndEditable -->
+	<div class="caption">
+		<!-- TemplateBeginEditable name="image caption" --><p>Caption for the image. Standard image size: 160 pixels wide.</p><!-- TemplateEndEditable -->
+	</div>
+</div>
+<!-- TemplateEndIf -->
+<div id="content">
+	<h2><!-- TemplateBeginEditable name="page title" -->Page title<!-- TemplateEndEditable --></h2>
+<!-- TemplateBeginEditable name="content" -->
+	<p>This template is for use on all University websites. The colour band, title, quicklinks and menu can all be easily modified.</p>
+	<p>This template should be used for most webpages around the university. </p>
+	<p>The code for this template validates and is designed for optimum accessibility and flexibility on a wide range of devices.</p>
+<!-- TemplateEndEditable -->
+</div>
+
+<div class="topofpage">
+	<a href="#top" accesskey="t" title="Back to the top of the page">top of page</a>
+</div>
+
+<div id="footer">
+<!--#include virtual="/template-assets/07/includes/metalinks.html" -->
+	<div>
+		<dl>
+			<dt>Date created:</dt><dd><!-- TemplateBeginEditable name="Date Created" -->Date Created<!-- TemplateEndEditable --></dd>
+			<dt>Last modified:<!--#config timefmt="%d %B %Y %H:%M:%S" --></dt><dd><!--#echo var="LAST_MODIFIED" --></dd>
+			<dt>Authoriser:</dt><dd><!-- TemplateBeginEditable name="Authoriser" -->Authoriser<!-- TemplateEndEditable --></dd>
+			<dt>Maintainer:</dt><dd><!-- TemplateBeginEditable name="Maintainer" -->Maintainer<!-- TemplateEndEditable --></dd>
+			<dt>Email:</dt><dd><!-- TemplateBeginEditable name="Email" -->Email<!-- TemplateEndEditable --></dd>
+		</dl>
+<!--#include virtual="/template-assets/07/includes/legal.html" -->
+<!-- TemplateBeginEditable name="footer extras" --><!-- TemplateEndEditable -->
+	</div>
+</div>
+</body>
+</html>

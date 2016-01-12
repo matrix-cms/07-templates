@@ -1,0 +1,82 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#top.resinst #homelink
+{
+	background-image: url("http://www.unimelb.edu.au/template-assets/07/images/logo-sub-nobar.gif");
+}
+
+#top.resinst .ri_linkenergy 
+{
+	display: block;
+	position: absolute;
+	top: -130px;
+	left: 1033px;
+	width: 318px;
+	height: 145px;
+	font-size: 1px;
+	padding-bottom: 100px;
+	background-image: url("http://www.unimelb.edu.au/template-assets/07/images/resinst/energy_ri_logo_text.gif");
+	background-repeat: no-repeat;
+	background-position: 0 100%;
+}
+
+#top.resinst .ri_linkmaterials
+{
+	display: block;
+	position: absolute;
+	top: -130px;
+	left: 1033px;
+	width: 318px;
+	height: 145px;
+	font-size: 1px;
+	padding-bottom: 100px;
+	background-image: url("http://www.unimelb.edu.au/template-assets/07/images/resinst/materials_ri_logo_text.gif");
+	background-repeat: no-repeat;
+	background-position: 0 100%;
+}
+
+#top.resinst .ri_linksustain
+{
+	display: block;
+	position: absolute;
+	top: -130px;
+	left: 1033px;
+	width: 318px;
+	height: 145px;
+	font-size: 1px;
+	padding-bottom: 100px;
+	background-image: url("http://www.unimelb.edu.au/template-assets/07/images/resinst/sustain_ri_logo_text.gif");
+	background-repeat: no-repeat;
+	background-position: 0 100%;
+}
+
+#top.resinst .ri_linkbroadband
+{
+	display: block;
+	position: absolute;
+	top: -130px;
+	left: 1033px;
+	width: 338px;
+	height: 145px;
+	font-size: 1px;
+	padding-bottom: 100px;
+	background-image: url("http://www.unimelb.edu.au/template-assets/07/images/resinst/broadband_ri_logo_text.gif");
+	background-repeat: no-repeat;
+	background-position: 0 100%;
+}
+
+#top.resinst .ri_linkibes
+{
+	display: block;
+	position: absolute;
+	top: -130px;
+	left: 1033px;
+	width: 352px;
+	height: 145px;
+	font-size: 1px;
+	padding-bottom: 100px;
+	background-image: url("http://www.unimelb.edu.au/template-assets/07/images/resinst/ibes_ri_logo_text.gif");
+	background-repeat: no-repeat;
+	background-position: 0 100%;
+}

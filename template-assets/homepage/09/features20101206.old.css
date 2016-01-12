@@ -1,0 +1,282 @@
+/* style sheet for creating custom banner layouts
+   please preface styles with #features to minimise
+   the possibility of breaking anything outside the
+   banner feature area... and please be careful! :-) */
+/*
+  Localised reset
+*/
+
+#features #feature-set .feature * {
+  margin: 0px;
+  padding: 0px;
+}
+
+/*
+  Typography
+*/
+
+#features #feature-set .feature h3, #features #feature-set .feature h4, #features #feature-set .feature h5, #features #feature-set .feature p, #features #feature-set .feature ul, #features #feature-set .feature ol {
+  margin-bottom: 0.5em;
+}
+
+#features #feature-set .feature h3 { font-size: 18px; }
+#features #feature-set .feature h4 { font-size: 16px; }
+
+#features #feature-set .feature p.small, #features #feature-set .feature small {
+  font-size: 11px;
+}
+
+#features #feature-set .feature ul li, #features #feature-set .feature ol li {
+  margin-left: 20px;
+  margin-bottom: 3px;
+}
+
+/*
+  Micro column framework
+*/
+
+#features #feature-set .feature .col {
+  display: block;
+  float: left;
+  overflow: hidden;
+  position: relative;
+}
+
+#features #feature-set .feature .one { width: 240px; }
+#features #feature-set .feature .two { width: 480px; }
+#features #feature-set .feature .three { width: 720px; }
+#features #feature-set .feature .four { width: 960px; }
+
+/*
+  Utility classes
+*/
+
+#features #feature-set .feature .accessible {
+  position: absolute;
+  left: -999em;
+}
+
+#features #feature-set .feature a.button {
+  display: block;
+  overflow: hidden;
+  color: #fff;
+  background: transparent no-repeat top left;
+  text-decoration: none;
+}
+
+#features #feature-set .feature a.button span {
+  background: transparent no-repeat top right;  
+  display: block;
+}
+
+#features #feature-set .feature a.button:hover { background-position: center left;}
+#features #feature-set .feature a.button:hover span { background-position: center right;}
+#features #feature-set .feature a.button:active { background-position: bottom left;}
+#features #feature-set .feature a.button:active span { background-position: bottom right;}
+
+#features #feature-set .feature a.button.big {
+  text-shadow: -1px -1px 1px #888;  
+  position: absolute;  
+  height: 35px;
+  background-image: url('feature-images/button-l-dark.png');  
+  font-size: 16px;
+  line-height: 35px;  
+  font-weight: bold;
+  padding-left: 15px;
+}
+
+#features #feature-set .feature a.button.big span {
+  background-image: url('feature-images/button-r-dark.png');
+  height: 35px;
+  padding-right: 15px;  
+}
+
+#features #feature-set .feature a.button.big.light { background-image: url('feature-images/button-l.png'); }
+#features #feature-set .feature a.button.big.light span { background-image: url('feature-images/button-r.png'); }
+#features #feature-set .feature a.button.big.grey { background-image: url('feature-images/grey-button-l.png'); }
+#features #feature-set .feature a.button.big.grey span { background-image: url('feature-images/grey-button-r.png'); }
+
+#features #feature-set .feature a.button.small {
+  display: inline-block;
+  height: 20px;
+  background-image: url('feature-images/button-sml-l.png');  
+  font-size: 11px;
+  line-height: 20px;  
+  padding-left: 10px;
+}
+
+#features #feature-set .feature a.button.small.play {
+  background-image: url('feature-images/button-sml-l-play.png');
+  padding-left: 20px;
+}
+
+#features #feature-set .feature a.button.small span {
+  background-image: url('feature-images/button-sml-r.png');
+  height: 20px;
+  padding-right: 10px;  
+}
+
+#features #feature-set .feature .overlay.full-height {
+  height: 270px;
+}
+
+#features #feature-set .feature .overlay {
+
+  position: absolute;
+}
+
+#features #feature-set .feature .overlay.light-background {
+  /*  background-color: rgba(0,0,0, 0.5);*/
+  background: transparent url('feature-images/000-50percent.png') repeat;
+}
+
+#features #feature-set .feature .overlay.dark-background {
+  /*  background-color: rgba(255,255,255, 0.1);*/  
+  background: transparent url('feature-images/fff-10percent.png') repeat;
+}
+
+#features #feature-set .feature .overlay.uni-blue {
+  background: transparent url('feature-images/00447c-50percent') repeat;
+  /*  background-color: rgba(0, 68, 124, 0.5);  */
+}
+
+
+#features #feature-set .feature ol.episodes {
+  overflow: hidden;
+  margin-top: 10px;
+}
+
+#features #feature-set .feature ol.episodes li {
+  list-style-type: none;
+  margin-left: 0px;
+  display: block;
+  width: 116px;
+  height: 116px;
+  position: relative;
+  float: left;
+  margin-right: 20px;  
+  overflow: hidden;
+}
+#features #feature-set .feature ol.episodes li img {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+
+#features #feature-set .feature ol.episodes li a {
+  display: block;
+  width: 116px;
+  height: 116px;
+  position: absolute;
+  font-size: 12px;
+  text-decoration: none;
+  background: transparent url("feature-images/play.png") no-repeat 10px 90px;
+}
+
+/* Background-image: none causes issues in IE lte 7 with jquery effect */
+#features #feature-set .feature ol.episodes li a:hover {
+  background-position: -1000px -1000px;
+}
+
+#features #feature-set .feature ol.episodes li a span.title {
+  padding: 5px;
+  display: block;
+  position: absolute;
+  bottom: 0px;
+  background: transparent url('feature-images/000-50percent.png') repeat;
+  width: 106px;
+/*  background-color: rgba(0,0,0,0.5);*/
+  color: #fff;
+  line-height: 1.3em;
+}
+
+/*
+  Structure
+*/
+
+#features #feature-set {
+ overflow: hidden;
+ height: 270px;
+}
+
+/*
+  Content  
+*/
+
+#features #feature-set .feature {
+  background: #00447c url("feature-images/blue-gradient.png") no-repeat top left;
+  color: #fff;
+}
+
+#features #feature-set .feature .content {
+  padding: 20px;
+}
+
+#features #feature-set .feature .content.right {
+  text-align: right;
+}
+
+#features #feature-set .feature a {
+  color: #ccc;
+}
+
+#features #feature-set .feature a:hover {
+  cursor: pointer;
+}
+
+#features #feature-set .feature hr {
+  border: 1px solid #1a5a8e;
+  color: #1a5a8e;
+  margin: 0px;
+}
+
+
+/*
+  IE6 hacks
+*/
+
+.ie6 #features #feature-set .feature .overlay {
+  background-image: none;
+  zoom: 1;  
+}
+
+.ie6 #features #feature-set .feature .overlay.light-background {
+  /*  background-color: rgba(0,0,0, 0.5);*/
+  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#7F000000,endColorstr=#7F000000);
+}
+
+.ie6 #features #feature-set .feature .overlay.dark-background {
+  /*  background-color: rgba(255,255,255, 0.1);*/  
+  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#19FFFFFF,endColorstr=#19FFFFFF);    
+}
+
+.ie6  #features #feature-set .feature .overlay.uni-blue {
+  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#7F00447C,endColorstr=#7F00447C);  
+  /*  background-color: rgba(0, 68, 124, 0.5);  */
+}
+
+.ie6 #features #feature-set .feature a.button span {
+  float: left;
+	overflow: visible;
+}
+
+.ie6 #features #feature-set .feature ol.episodes li a span.title {
+  background-color: #444;
+  width: 106px;
+}
+
+.ie6 #features #feature-set .content {
+  zoom: 1;
+  float: left;  
+}
+
+/*
+  IE6 compatible imagery
+*/
+.ie6 #features #feature-set .feature ol.episodes li a { background-image: url("feature-images/play.gif"); }
+.ie6 #features #feature-set .feature a.button.small span { background-image: url('feature-images/button-sml-r.gif'); }
+.ie6 #features #feature-set .feature a.play { background-image: url('feature-images/button-sml-l-play.gif') !important; }
+.ie6 #features #feature-set .feature a.button.small { background-image: url('feature-images/button-sml-l.gif'); }
+.ie6 #features #feature-set .feature a.button.big span { background-image: url('feature-images/button-r-dark.gif'); }
+.ie6 #features #feature-set .feature a.button.big { background-image: url('feature-images/button-l-dark.gif'); }
+

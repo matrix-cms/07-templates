@@ -1,0 +1,102 @@
+body {
+	font-family: "Lucida Grande", Lucida, Verdana, sans-serif;
+	font-size: 78%;
+	background-color: #003368;
+	margin: .3em;
+	width: 280px;
+}
+ul {
+	margin: 0;
+	padding:0 0 0 2em;	
+}
+li {
+	padding: .2em 0;
+}
+dt {
+	font-weight: bold;
+	color: #333;
+}
+
+#quicklinks, #breadcrumbs, #nav, #menu, #footer, #global-bar, #sidebar {
+	background-color: #e0e6ef;
+	font-size: .8em;
+	color: #666;
+	padding: .3em;
+	margin-bottom: .25em;
+}
+#skipmenu {
+	padding: 0;
+}
+#skipmenu li {
+	display:inline;
+	list-style:none;
+	font-size: .7em;
+	padding-right: 1em;
+}
+#skipmenu a {
+	color: #ccc;
+}
+#top h1 {
+	height: 40px;
+	font-family: georgia;
+	font-weight: normal;
+	font-size: 1.2em;
+	text-align: left;
+	margin:.5em 0;
+	background: url("https://www.unimelb.edu.au/template-assets/07/images/handheld-logo.png") no-repeat;
+	padding:3px 0 0 60px;
+	color: #fff;
+}
+#top h1 span {
+	display: block;
+	padding: .1em 0 .3em;
+	font-size: 0.8em;
+}
+#top h1 a {
+	color: #fff;
+	text-decoration: none;
+}
+#menu {
+	background-color: #ccccee;
+}
+#menu h2 {
+	font-size: 1.3em;
+	margin:0;
+}
+#menu img {
+	border:none;
+}
+#nav h2, #content h2 {
+	font-size: 1.3em;
+	margin: 0;
+}
+#content, #home-content {
+	background-color: #fff;
+	padding: .3em;
+}
+table.grey {border:solid #999 thin; border-collapse:collapse; margin: 0 0 0.5em 0; text-align:left;}
+table.grey th, table.grey td {border:solid #999 thin; border-collapse:collapse; padding: 2px;}
+table.grey th {background-color:#eee;}
+table.grey td {background-color:#fff;}
+
+#content .notice, #content .importantnotice { border: 1px dotted #999; background-color: #eee; padding: 0.6em;}
+#content .importantnotice { color:red; }
+#content div.notice { margin: 0 10px 1em 0; }
+
+.topofpage a {
+	color: #fff;
+	display: block;
+	margin: .3em 0;
+}
+#footer dt, #footer dd {
+	float: left;
+	padding: 0 10px 0 0;
+	margin: 0;
+}
+#footer dt, #footer ul {
+	clear: left;
+}
+
+#directory ul.phone-result-list {padding-left:1em;}
+#directory .vcard .fn {font-weight:bold;padding-right:0.5em;}
+#directory .vcard .org {font-style:italic;padding-right:0.5em;color:#666;}

@@ -1,0 +1,155 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/2000/REC-xhtml1-20000126/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>PAGE TITLE : SUBSITE TITLE : The University of Melbourne</title>
+<!-- TemplateEndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<!-- TemplateBeginEditable name="head" -->
+<meta name="DC.Title" content="" />
+<meta name="DC.Creator" content="" />
+<meta name="UM.Creator.Email" content="" />
+<meta name="DC.Subject" content="" />
+<meta name="keywords" content="" />
+<meta name="DC.Description" content="" />
+<meta name="description" content="" />
+<meta name="DC.Publisher" content="" />
+<meta name="DC.Contributor" content="" />
+<meta name="DC.Date" scheme="ISO 8601" content="YYYY-MM-DD" />
+<meta name="UM.Date.ReviewDue" scheme="ISO 8601" content="YYYY-MM-DD" />
+<meta name="UM.Authoriser.Name" content="" />
+<meta name="UM.Authoriser.Title" content="" />
+<meta name="UM.Maintainer.Name" content="" />
+<meta name="UM.Maintainer.Department" content="" />
+<meta name="UM.Maintainer.Email" content="" />
+<meta name="DC.Language" scheme="RFC 1766" content="en" />
+<!-- TemplateEndEditable -->
+<meta name="DC.Rights" content="http://www.unimelb.edu.au/disclaimer/" />
+<meta name="DC.Format" scheme="IMT" content="text/html" />
+<meta name="DC.Identifier" content="http://<!--#echo var='HTTP_HOST'--><!--#echo var='REQUEST_URI'-->" />
+<!--#config timefmt="%Y-%m-%d" --><meta name="DC.Date.Modified" scheme="ISO 8601" content="<!--#echo var='LAST_MODIFIED' -->" />
+<!-- START STYLE SHEET REFERENCES - DO NOT DELETE THE FOLLOWING TAG -->
+<link rel="stylesheet" href="/template-assets/styles/basic.css" type="text/css" />
+<link rel="stylesheet" href="/template-assets/styles/print.css" type="text/css" media="print" />
+<style type="text/css" media="screen">
+<!--
+    @import url("/template-assets/styles/compliant.css");
+// -->
+</style>
+<link rel="stylesheet" href="/infostrategy/template-assets-custom/styles/basic.css" type="text/css" />
+<script language="JavaScript" type="text/javascript" src="/template-assets/js/scripts.js"></script>
+<script language="JavaScript" type="text/javascript" src="/template-assets/js/menu.js"></script>
+<script language="JavaScript" type="text/javascript" src="/template-assets/js/search.js"></script>
+<!-- TemplateBeginEditable name="styles" -->
+<script language="JavaScript" type="text/javascript">
+<!-- hide from old browsers
+// The folowing variable can be used to define a parent for pages below the 3rd level of the menu
+// var menuParent = "/aboutus/";
+// -->
+</script>
+<!-- TemplateEndEditable -->
+<script language="JavaScript" type="text/javascript">
+<!-- hide from old browsers
+function start(){ menuSet(); if (window.customStart) { customStart(); }}
+// -->
+</script>
+<!-- END STYLE SHEET REFERENCE -->
+<!-- The following Dreamweaver parameters set the visibility of the right sidebar-->
+<!-- Use Modify - Template Properties to change the value -->
+<!-- TemplateParam name="sidebar" type="boolean" value="true" -->
+</head>
+<body onload="start()"> 
+<div id="itop"> 
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" summary="This table contains the University logo and the input boxes for the University search engine and the staff contact searches."> 
+    <tr> 
+      <td rowspan="2" width="105" class="internallogocell" valign="bottom"> <!--#include virtual="/infostrategy/template-assets-custom/includes/i_logo.html" --> </td> 
+      <td valign="top" rowspan="2" width="50" class="topcell"> <a href="#content" accesskey="c" title="Skip past navigation to main part of page"><img src="/template-assets/images/spacer.gif" align="top" hspace="0" vspace="0" border="0" width="50" height="82" alt="Skip past navigation to main part of page" /></a></td> 
+      <td nowrap="nowrap" align="right" height="56" width="99%" class="topcell"> <!--#include virtual="/template-assets/includes/i_searchform.html" --> </td> 
+    </tr> 
+    <tr valign="top"> 
+      <td height="26" colspan="2" class="topcell"> <!--#include virtual="/infostrategy/template-assets-custom/includes/i_quick_links.html" --> </td> 
+    </tr> 
+  </table> 
+</div> 
+<div class="printonly"> <img src="/template-assets/images/logo_print.gif" alt="" /> </div> 
+<!-- START MIDDLE SECTION --> 
+<div id="imidsection"> 
+  <table class="gridtable" cellpadding="0" cellspacing="0" border="0" summary="This table contains the main content of the page."> 
+    <tr> 
+      <td valign="top"> <!--#include virtual="/infostrategy/template-assets-custom/includes/i_menu.html" --> </td> 
+      <td width="15"><img src="/template-assets/images/spacer.gif" align="top" hspace="0" vspace="0" border="0" width="15" height="10" alt="" /></td> 
+      <td id="contenttablecell" width="100%" valign="top"> <a name="content"></a> 
+        <table border="0" width="100%" cellspacing="0" cellpadding="0" class="contenttable" summary="This table contains page content."> 
+          <tr valign="top"> 
+            <td class="boxheaderleft"><img src="/template-assets/images/spacer.gif" align="top" hspace="0" vspace="0" border="0" width="10" height="10" alt="" /></td> 
+            <td class="boxheader" width="99%"><h2>Internal site name</h2></td> 
+          </tr> 
+          <tr valign="top"> 
+            <td colspan="2" class="contentboxcell"> <table border="0" width="100%" cellspacing="0" cellpadding="0" summary="This table contains page content."> 
+                <tr valign="top"> 
+                  <td id="content"> <div id="breadcrumbs"><!-- TemplateBeginEditable name="breadcrumbs" --><a href="/">Home</a><!-- TemplateEndEditable --></div> 
+                    <h1><!-- TemplateBeginEditable name="page title" -->Internal template<!-- TemplateEndEditable --></h1> 
+                    <!-- TemplateBeginEditable name="content" --> 
+                    <p>This template applies to sections of the University site
+                      that require a user to login or where access is limited
+                      by IP address to the unimelb.edu.au domain. The navigation
+                      and branding elements have an internal focus and branding
+                      elements would be reduced to be less obtrusive than externally
+                      focused pages and to maximise the content section of the
+                      page. Typical users of these pages would be University
+                      staff and researchers.</p>
+                    <p>This template applies to sections of the University site that require a user to login or where access is limited by IP address to the unimelb.edu.au domain. The navigation and branding elements have an internal focus and branding elements would be reduced to be less obtrusive than externally focused pages and to maximise the content section of the page. Typical users of these pages would be University staff and researchers.</p>
+                    <!--#include virtual="/template-assets/includes/topofpage.html" --> 
+                    <!-- TemplateEndEditable --> </td> 
+                  <!-- TemplateBeginIf cond="_document['sidebar']" --> 
+                  <td class="divider" width="15" valign="top"> <img src="/template-assets/images/whitepixel.gif" alt="---" width="15" height="30" hspace="0" vspace="0" align="top" /> </td> 
+                  <td class="isidebar" valign="top"> <!-- TemplateBeginEditable name="sidebar box" --> 
+                    <table border="0" width="160" cellspacing="0" cellpadding="0" class="boxtable" summary="This table contains news content."> 
+                      <tr> 
+                        <td class="boxheaderleft"><img src="/template-assets/images/spacer.gif" align="top" width="9" height="9" alt="" /></td> 
+                        <td class="boxheader" width="99%"><h2>Box header</h2></td> 
+                        <td class="boxheaderright"><img src="/template-assets/images/spacer.gif" align="top" width="9" height="9" alt="" /></td> 
+                      </tr> 
+                      <tr> 
+                        <td colspan="3" class="boxcell"><p>This feature box is suitable for displaying current news items or announcements. The box can be resized to suit the page requirements.</p></td> 
+                      </tr> 
+                    </table> 
+                    <!-- TemplateEndEditable --> 
+                    </td> 
+                  <!-- TemplateEndIf --> </tr> 
+              </table></td> 
+          </tr> 
+        </table></td> 
+    </tr> 
+  </table> 
+</div> 
+<!-- END MIDDLE SECTION --> 
+<!-- START BOTTOM SECTION --> 
+<table width="100%" cellpadding="0" cellspacing="0" border="0" summary="This table contains links to University contact details and copyright, disclaimer, privacy and accessibility information."> 
+  <tr> 
+    <!--#include virtual="/infostrategy/template-assets-custom/includes/c_footbar_global_lhs.html" -->
+    <!--#include virtual="/template-assets/includes/g_subsite_footbar_rhs.html" -->
+  </tr> 
+</table> 
+<table width="100%" cellpadding="0" cellspacing="0" border="0" summary="This table contains contact details and information about this page."> 
+  <tr> 
+    <td id="author" class="footer"> <p> Date Created: <!-- TemplateBeginEditable name="Date Created" -->DD mmmm YYYY<!-- TemplateEndEditable --><br /> 
+        Last Modified:
+        <!--#config timefmt="%c" --> 
+        <!--#flastmod virtual="${DOCUMENT_NAME}" --> 
+        <br /> 
+        Authorised By: <!-- TemplateBeginEditable name="Authoriser" -->AUTHORISER'S TITLE, DEPARTMENT, FACULTY/DIVISION<!-- TemplateEndEditable --><br /> 
+        Maintainer: <!-- TemplateBeginEditable name="Maintainer" -->MAINTAINER'S NAME, DEPARTMENT<!-- TemplateEndEditable --><br /> 
+        Email: <!-- TemplateBeginEditable name="Email" -->MAINTAINER'S EMAIL ADDRESS<!-- TemplateEndEditable --> </p></td> 
+    <td id="legal" class="footer"> <!--#include virtual="/template-assets/includes/g_footer.html" --> 
+      <!-- TemplateBeginEditable name="footer extras" --> 
+      <!-- Include file temporarily disabled --> 
+      <!-- include virtual="/template-assets/includes/c_footer_extras.html" --> 
+      <!-- TemplateEndEditable --> </td> 
+  </tr> 
+</table> 
+<!-- END BOTTOM SECTION --> 
+</body>
+<!-- TemplateEnd -->
+</html>

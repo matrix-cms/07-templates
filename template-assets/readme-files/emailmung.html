@@ -1,0 +1,42 @@
+<html>
+  <head>
+    <title>Email munger page</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <script type="text/javascript">
+    <!--
+						function sendemail(x,y) {
+								void(top.location="\u006d\u0061\u0069\u006c\u0074\u006f\u003a"+x+"\u0040"+y);
+								return false;
+						}
+    //-->
+    </script> 
+				<script type="text/javascript">
+				<!--
+						String.prototype.toUnicodeString = function() {
+								var i, c, unicodeString = '';
+								var zeros = "0000";
+								for (i = 0; i < this.length; i++) {
+										c = this.charCodeAt(i).toString(16);
+										unicodeString += '\\u' + zeros.substring(c.length) + c;
+								}
+								return unicodeString;
+						}
+				//-->
+				</script>    
+  </head>
+  <body>
+    <h1>Email munger script instructions</h1>
+      <p>Encoding an e-mail address with JavaScript is a simple way to protect it from being harvested by spam bots. The email munger script places Unicode characters in place of alphanumerics and punctuation in the anchor link. To use it, construct mailto: hyperlinks like this:</p> 
+						<p>
+						<a href="http://www.unimelb.edu.au/contact/feedback.html" onclick="return sendemail('\u0077\u0065\u0062\u002d\u0069\u006e\u0066\u006f','\u0077\u0065\u0062\u0063\u0065\u006e\u0074\u0072\u0065\u002e\u0075\u006e\u0069\u006d\u0065\u006c\u0062\u002e\u0065\u0064\u0075\u002e\u0061\u0075')">web-info@ webcentre.unimelb.edu.au</a></p> 
+						<p>The text part of the link has a deliberate spacer included after the "@" symbol to protect the address from harvesters, while the mailto function does not include the space. The sendemail function should have two parameters. The first is the username portion of the e-mail address and the second is the domain name portion of the e-mail address and is optional. If no domain is supplied, the script will try to use the domain of the current document.</p> 
+						<p>Note in the example above the username ("web-info") is supplied using a string of Unicode characters. While not strictly necessary, using Unicode adds another level of obfuscation to the e-mail address and is recommended. The same applies to the domain, if included. Use the form below to translate a string into its corresponding Unicode characters:</p> 
+						<p>All of this results in normal link behavior for browsers supporting JavaScript 1.1 and for those who do not have a JavaScript-enabled browser, the href value in the hyperlink references a page containing a contact form. The onclick handler will be ignored and the link will exhibit standard behavior.</p> 
+				<h2>Unicode generator</h2>
+				  <form action="javascript:void(0)" onsubmit="this.elements[0].value = this.elements[1].value.toUnicodeString(); return false">
+				  <textarea rows="6" cols="60" readonly="readonly"></textarea><br><br><input type="text" name="string" size="30" value="enter string" />&nbsp;<input type="submit" value="Create Unicode" />
+				</form>
+				<h2>Credits</h2>
+				  The script, Unicode generator and instructions have been borrowed from www.gazingus.org. Please refer to the site http://www.gazingus.org/html/E-mail_Obfuscation.html for other great scripts.
+  </body>
+</html>

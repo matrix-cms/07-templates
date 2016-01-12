@@ -1,0 +1,227 @@
+/* ***************************************************** */
+/* first, some ground rules for the form overall         */
+form.contentform
+{
+	background-color: #eed;
+	padding: 0.5em 1em;
+	border: dotted #666 1px;
+	width: 95%;
+	min-width:38em;
+	margin: 0 0 1em 0;
+}
+
+form.contentform *
+{
+	margin: 0;
+	padding: 0;
+}
+
+.contentform h2, .contentform h3, .contentform h4
+{
+	font-size: 140%;
+	color: #664;
+	padding: 0 0 0.5em 0 !important;
+}
+
+/* ***************************************************** */
+/* some specific rules for little problems */
+.contentform input[type='radio'], input[type='checkbox'] { margin-right: 0.5em; }
+.contentform option { padding-right: 0.5em; }
+.contentform .firstquestion { border: none; }
+
+.contentform .required-flag
+{
+	color: red;
+	font-style: italic;
+	font-size: 80%;
+}
+
+.contentform .note
+{
+	font-size: 90%;
+	margin-left: 2.5em;
+	display: block;
+}
+
+.contentform p
+{
+	clear: both;
+	margin: 0.5em 0;
+}
+
+/* ***************************************************** */
+/* styles for the standard label based form block        */
+.contentform label
+{
+	display: block;
+	border-top: #996 dotted 1px;
+	padding: 0.5em 0;
+	clear: both;
+}
+
+.contentform .question
+{
+	float: left;
+	width: 45%;
+	display: block;
+	margin-bottom: 0.5em;
+}
+
+.contentform .answer
+{
+	float: right;
+	width: 50%;
+	display: block;
+	margin-bottom: 0.5em;
+}
+
+/* ***************************************************** */
+/* styles for fieldsets at the top level                 */
+.contentform fieldset
+{
+	clear: both;
+	border: none;
+	margin: 0 0 0.5em;
+}
+
+.contentform fieldset legend
+{
+	font-size: 120%;
+	font-weight: bold;
+	color: #664;
+	padding: 0 0 0.25em;
+}
+
+.contentform fieldset .question
+{
+	margin-left: 5%;
+	width: 40%;
+}
+
+.contentform fieldset p { margin: 0 0 0.5em 5%; }
+
+/* ***************************************************** */
+/* styles for specific div based form blocks             */
+.contentform div
+{
+	border-top: #996 dotted 1px;
+	padding: 0.5em 0;
+	clear: both;
+}
+
+div.boolean label
+{
+	clear: none;
+	border: none;
+	padding-top: 0;
+}
+
+/* ----------------------------------------------------- */
+.contentform .array fieldset { clear: none; }
+
+.contentform .array label
+{
+	border: none;
+	padding-top: 0;
+}
+
+.contentform .array label:hover { background-color: #e0e0c0; }
+
+.contentform .array legend
+{
+	font-size: 110%;
+	color: #664;
+}
+
+/* ----------------------------------------------------- */
+.contentform .multi fieldset
+{
+	clear: none;
+	border: none;
+}
+
+.contentform .multi fieldset div { border: none; }
+
+.contentform .multi legend
+{
+	font-size: 110%;
+	color: #664;
+}
+
+.contentform .multi label
+{
+	display: block;
+	clear: none;
+	float: left;
+	border: none;
+	margin-right: 1em;
+	font-size: 90%;
+}
+
+.contentform .multi select, .contentform .multi input { display: block; }
+
+/* ******************************************************* */
+/* styles for creating likert scales */
+.contentform .likert
+{
+	display: block;
+	border-top: #996 dotted 1px;
+	padding: 0.5em 0;
+	clear: both;
+}
+
+.contentform .likert legend
+{
+	font-size: 110%;
+	color: #664;
+}
+
+.contentform .likert .question { width: 100%; }
+
+.contentform .likert label
+{
+	margin: 0;
+	clear: none;
+	width: 19%;
+	float: left;
+	color: #333;
+	position: relative;
+	text-align: center;
+	padding: 1.5em 0 0.5em;
+	border-top: none;
+	font-size: 90%;
+}
+
+.contentform .likert4 label { width: 24%; }
+.contentform .likert3 label { width: 32%; }
+
+.contentform .likert label:hover
+{
+	background-color: #e0e0c0;
+	text-decoration: underline;
+}
+
+.contentform .likert label input
+{
+	display: block;
+	position: absolute;
+	left: 45%;
+	top: 0;
+}
+
+/* ******************************************************* */
+/* styles for the submit button */
+.contentform .submit button, .contentform .submit input
+{
+	margin: 1em 0 0 50%;
+}
+.contentform .submit button
+{
+	background-color: #d0d0b0;
+	padding: 0.3em 0.5em;
+	font-size: 90%;
+}
+.contentform .submit label
+{
+	border:none;
+}

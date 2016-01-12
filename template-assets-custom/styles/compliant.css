@@ -1,0 +1,12 @@
+/* this style sheet contains the custom styles which need to be hidden from netscape 4.7 */
+
+.banner
+{
+ background-image: url(/template-assets/images/globalimage.gif);
+}
+
+.partnershipbanner
+{
+ background-image: url(/template-assets/images/partnership_samplelogo.gif);
+}
+

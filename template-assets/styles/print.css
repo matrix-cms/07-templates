@@ -1,0 +1,104 @@
+ADDRESS, BLOCKQUOTE, BODY, CAPTION, CENTER, DD, DIR, DIV, DL, DT, FORM, LI, MENU, OL, P, PRE, TD, TH, TR, UL, SMALL
+{
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 10pt;
+ color: #000;
+}
+
+H1, H2, H3, H4, H5, H6
+{
+ font-weight: bold;
+ font-family: Arial, Helvetica, sans-serif;
+ color: #586d9d;
+}
+
+H1 { font-size: 16pt; }
+H2 { font-size: 14pt; }
+H3 { font-size: 13pt; }
+H4 { font-size: 12pt; }
+H5 { font-size: 11pt; }
+H6 { font-size: 11pt; }
+
+HTML {
+ margin: 0;
+ padding: 0;
+}
+
+A { text-decoration: none; }
+
+body {
+ background: #ffffff;
+ padding: 0;
+ margin: 0;
+ left: 0px;
+ top: 0px;
+}
+#content {
+ margin: 0;
+ padding: 0 5pt 5pt 0;
+ }
+.caption {
+ font-size: 10pt;
+ font-weight: bold;
+ color: #666666;
+}
+
+
+/* Stuff that only appears in print */
+.printonly {
+ padding: 0;
+ margin: 0;
+ display: block;
+}
+#printlogo {
+ padding: 0pt 0pt 25pt 0pt;
+}
+
+/* Stuff that is hidden in print */
+#top { display: none; }
+#breadcrumbs { display: none; }
+#menu { display: none; width:0pt; }
+.menutable { display: none; width:0pt; }
+.divider { display: none; width:0pt; }
+.toplink { display: none; }
+.footbar { display: none; }
+.customfootbar { display: none; }
+.homeunit img { display: none; }
+.homeboxtable img { display: none; }
+
+/* Appearance modified for print */
+.homeunit {
+	padding: 0 10pt 5pt 0;
+}
+.homeunit h2 {
+	font-size: 10pt;
+}
+.homeboxtable {
+  border: 1px solid #666;
+  padding: 5pt;
+}
+.notice {
+  border: 1px dotted #999;
+  padding: 5pt;
+}
+
+/* The maintainer/author and legal info at foot of page */
+.footer {
+ border-top: 1px solid #666;
+ width: 50%;
+ vertical-align: top;
+}
+.footer p {
+ font-size: 6pt;
+ color: #666666;
+ padding: 6px 0 0 0;
+}
+.footer p a {
+ color: #666;
+ text-decoration: underline;
+ display:none;
+}
+.footer acronym {
+ text-decoration: none;
+}
+#legal { text-align: right; }

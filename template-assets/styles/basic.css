@@ -1,0 +1,1094 @@
+/* based on the alwaysWork style sheet copyright RichInStyle.com 2000. */
+/* Fonts */
+ADDRESS, BLOCKQUOTE, BODY, CAPTION, CENTER, DD, DIR, DIV, DL, DT, FORM, LI, MENU, OL, P, PRE, TD, TH, TR, SMALL
+{
+ font-family: Verdana, Arial, Helvetica, sans-serif;
+ font-size: 12px;
+ color: #333333;
+}
+
+ADDRESS { font-style: italic; }
+BIG { font-size: 14px; }
+CITE { font-style: italic; }
+CODE, KBD, SAMP, TT { font: 12px "andale mono", courier, monospaced; }
+DT { font-weight: bold; padding-top: 8px; }
+DD { padding-top: 3px; }
+
+H1, H2, H3, H4, H5, H6
+{
+ font-weight: bold;
+ font-family: Verdana, Arial, Helvetica, sans-serif;
+ color: #445;
+}
+
+H1 { font-size: 16px; }
+H2 { font-size: 14px; }
+H3 { font-size: 12px; }
+H4 { font-size: 12px; }
+H5 { font-size: 12px; }
+H6 { font-size: 12px; }
+
+HTML
+{
+ margin: 0;
+ padding: 0;
+}
+
+PRE
+{
+ margin-left: 0;
+ white-space: pre;
+}
+
+SMALL, SUB, SUP { font-size: 10px; }
+TD { margin-left: 0; }
+
+TH
+{
+ font-weight: bold;
+ text-align: left;
+ margin-left: 0;
+}
+
+A { text-decoration: none; }
+
+ACRONYM, ABBR, .info 
+{
+ border-bottom: 1px dotted #708090; cursor: help; 
+}
+
+/* ***************************************************************************** */
+/* Whole of page styles */
+body
+{
+ background: #ffffff;
+ padding: 0;
+ margin: 0;
+ left: 0px;
+ top: 0px;
+}
+
+/* ***************************************************************************** */
+/* Top section of page */
+#top { padding: 0 0 4px 0; }
+
+#logo
+{
+ background-image: url(/template-assets/images/logo_bg.gif);
+ padding: 0;
+ margin: 0;
+ width: 135px;
+ height: 121px;
+ border: none;
+}
+
+.logocell
+{
+ background: #113a70;
+ width: 135px;
+ height: 121px;
+}
+
+/* ----------------------------------------------------------------------------- */
+/* Top of page navigation */ 
+.topnavcell { background: #113a70; }
+
+.topnav, .topnav A
+{
+ color: #fff;
+ text-decoration: none;
+ font-family: Verdana, Arial, Helvetica, sans-serif;
+ font-size: 11px;
+ font-weight: bold;
+ vertical-align: middle;
+}
+
+.topnav A:hover
+{
+ color: #fef485;
+ text-decoration: underline;
+ background: none;
+}
+
+.topnavlabel
+{
+ color: #fff;
+ font-family: Verdana, Arial, Helvetica, sans-serif;
+ font-size: 11px;
+ font-weight: normal;
+ vertical-align: middle;
+}
+
+/* ----------------------------------------------------------------------------- */
+/* Banner */
+
+.banner
+{
+ padding: 0;
+ margin: 0;
+ height: 70px;
+ border: none;
+}
+
+
+.banner h1, .banner h1 a 
+{
+ font-size:22px;
+ font-family: "Trebuchet MS", verdana, arial, sans-serif;
+ color: #113a70;
+ padding: 0;
+ margin: 0;
+ text-decoration: none;
+}
+
+.banner h1 a:hover 
+{
+ color: #c00;
+ text-decoration: none;
+}
+
+.partnershipbanner
+{
+ padding: 0;
+ margin: 0;
+ height: 70px;
+ border: none;
+}
+
+
+.partnershipbanner h1, .partnershipbanner h1 a 
+{
+ font-size:22px;
+ font-family: "Trebuchet MS", verdana, arial, sans-serif;
+ color: #113a70;
+ padding: 0;
+ margin: 0;
+ text-decoration: none;
+}
+
+.partnershipbanner h1 a:hover 
+{
+ color: #c00;
+ text-decoration: none;
+}
+
+
+h1 span 
+{
+ font-size:14px;
+ font-family: "Trebuchet MS", verdana, arial, sans-serif;
+ color: #113a70;
+ padding: 0;
+ margin: 0;
+/* display: block; */
+}
+
+/* ----------------------------------------------------------------------------- */
+/* Second row (grey) navigation */
+.secondnavfill
+{
+ background: #586d9d;
+ background-image: url(/template-assets/images/secondnavfill_bg.gif);
+}
+
+td.secondnav
+{
+ background: #ccc;
+ background-image: url(/template-assets/images/greynav_bg.gif);
+ padding: 2px 20px 0 0;
+ margin: 0;
+}
+
+.secondnav
+{
+ color: #336;
+ font-family: Verdana, Arial, Helvetica, sans-serif;
+ font-size: 11px;
+ font-weight: bold;
+}
+
+.secondnav a
+{
+ color: #039;
+ text-decoration: none;
+}
+
+.secondnav a:hover
+{
+ color: #c30;
+ text-decoration: underline;
+ background: none;
+}
+
+/* ----------------------------------------------------------------------------- */
+/* Dropdown Links Form*/ 
+#linksform
+{
+ margin: 0 20px 0 0;
+ padding: 0;
+ height: 17px;
+}
+
+.dropdown
+{
+ border: 0;
+ padding: 0;
+ font-family: Verdana, Arial, Helvetica, sans-serif;
+ font-size: 10px;
+ background: #eeeeee;
+ height: 17px;
+}
+
+INPUT.linksbtn
+{
+ padding: 0;
+ margin: 0;
+}
+
+/* ----------------------------------------------------------------------------- */
+/* Search Form*/ 
+#searchform
+{
+ margin: 0 20px 0 0;
+ padding: 0;
+ height: 17px;
+}
+
+INPUT.searchtext
+{
+ border: 1px;
+ padding: 0;
+ font-size: 10px;
+ font-family: Verdana, Arial, Helvetica, sans-serif;
+ background: #eeeeee;
+ height: 15px;
+}
+
+INPUT.searchbtn
+{
+ padding: 0;
+ margin: 0; 
+}
+
+/* ***************************************************************************** */
+/* Middle section of page */
+#midsection
+{
+ margin: 0px 20px 0 20px;
+ padding: 0 0 12px 0;
+}
+
+#midsection h1
+{
+ margin: 0;
+ padding: 0 0 12px 0;
+}
+
+#content h1
+{
+ margin: 0 0 0 0;
+ padding: 0 0 12px 0;
+}
+
+#midsection p, #content p 
+{
+ margin-top: 0;
+ margin-bottom: 1.4em;
+ margin-right: 6px; 
+ text-align: left;
+}
+
+/* ----------------------------------------------------------------------------- */
+/* Left Navigation (metal) Menu - Level <= 3*/
+.menutable { margin: 0 0 0 0; }
+
+#rightmenuedge
+{
+ background-image: url(/template-assets/images/right_edge.gif);
+ background-repeat: repeat-y;
+ background-color: #fff;
+}
+
+#lwrmenuedge
+{
+ background-image: url(/template-assets/images/lwr_edge.gif);
+ background-repeat: repeat-x;
+ background-color: #fff;
+}
+
+#menuhead
+{
+ padding: 0;
+ margin: 0;
+ background-color: #666;
+ background-image: url(/template-assets/images/metal_bg.gif);
+ background-repeat: no-repeat;
+ background-position: right top;
+}
+
+#menuhead h2
+{
+ margin: 4px 0 4px 6px;
+ color: #fff;
+ padding: 0;
+ font-size: 12px;
+ font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+/* ***************************************************************************** */
+/* Content areas of page */
+#content { }
+
+#content h2, #content h3, #content h4, #content h5, #content h6
+{
+ margin: 0 0 6px 0;
+ padding: 0;
+}
+
+/* This controls the color and behaviour of links within the content of the page */
+#content A:link
+{
+ color: #03c;
+ text-decoration: underline;
+}
+
+#content A:visited
+{
+ color: #606;
+ text-decoration: underline;
+}
+
+#content A:hover
+{
+ color: #c00;
+}
+
+#content A:active
+{
+ color: #600;
+}
+
+/* ----------------------------------------------------------------------------- */
+/* styles for the vertical divider line (table cell) */
+.divider
+{
+ background: #fff;
+ background-image: url(/template-assets/images/divider_bg.gif);
+ background-repeat: repeat-y;
+}
+
+/* ----------------------------------------------------------------------------- */
+/* styles for the three column links layout */
+
+/*
+.gridtable tr, .gridtable td { vertical-align: top; }
+*/
+.gridtable { margin: 20px 0 0 0; }
+
+#imidsection .gridtable { margin: 0 0 0 0; }
+
+.unit { padding: 0 12px 12px 0; }
+
+.button h2
+{
+ color: #445;
+ margin: 0 0 0 8px;
+ padding: 0;
+ font-size: 12px;
+}
+
+.button h2 a
+{
+ color: #039;
+ margin: 0;
+ text-decoration: none;
+}
+
+.button h2 a:hover
+{
+ color: #c00;
+}
+
+.button ul
+{
+ margin: 0 0 0 -18px;
+ padding: 0;
+}
+
+.links li
+{
+ padding: 0;
+ margin: 0;
+ font-size: 11px;
+}
+
+.links a
+{
+ padding: 0;
+ margin: 0;
+ text-decoration: none;
+ line-height: 11px;
+ font-size: 11px;
+}
+
+/*
+.featlink, .featlink a
+{
+ font-size: 10px;
+ text-decoration: none;
+}
+*/
+
+/* ----------------------------------------------------------------------------- */
+/* Styles for right sidebar */
+.sidebar
+{
+ width: 160px;
+ padding: 0 0 0 0;
+}
+
+.caption, .caption P
+{
+ font-size: 10px;
+ font-weight: bold;
+ margin: 0 0 12px 0;
+ color: #666666;
+}
+
+/* ----------------------------------------------------------------------------- */
+/* Link to top of page */
+.toplink
+{
+ font-size: 10px;
+ color: #03c;
+ text-decoration: none;
+ font-family: Arial, Helvetica, sans-serif;
+}
+
+a.toplink:hover
+{
+ color: #c00;
+ text-decoration: underline;
+}
+
+/* ***************************************************************************** */
+/* Bottom section of page */
+/* ----------------------------------------------------------------------------- */
+/* The blue bar at the foot of the page */
+.footbar
+{
+ background-color: #586d9d;
+ width: 100%;
+ border-bottom: 6px solid #ccc;
+ padding: 0;
+ margin: 0;
+ height: 27px;
+}
+
+.footbar p
+{
+ color: white;
+ font-family: Verdana, Arial, sans-serif;
+ font-size: 10px;
+ font-weight: bold;
+ padding: 0;
+ vertical-align: middle;
+}
+
+.footbar a
+{
+ color: white;
+ text-decoration: none;
+}
+
+.footbar a:hover
+{
+ color: #fef485;
+ background: none;
+ text-decoration: underline;
+}
+
+#brandingbar 
+{ 
+ text-align: left;
+}
+
+#contactbar 
+{
+ text-align: right;
+}
+ 
+/* ----------------------------------------------------------------------------- */
+/* The maintainer/author and legal info at foot of page */
+.footer
+{
+ width: 50%;
+ vertical-align: top;
+}
+
+.footer p
+{
+ font-size: 10px;
+ color: #666;
+ line-height: 12px;
+ padding: 6px 20px 6px 20px;
+}
+
+.footer p a
+{
+ color: #03c;
+ text-decoration: underline;
+}
+
+.footer p a:hover
+{
+ color: #c00;
+ background: none;
+ text-decoration: underline;
+}
+
+#legal { text-align: right; }
+
+/* custom classes */
+
+.white { color: #fff; }
+.red { color: #C00; }
+
+/* ***************************************************************************** */
+/* Example styles - add to final style sheet after testing */
+
+table.grey { 
+  background: #999;
+  font: 12px/16px verdana, arial, helvetica, sans-serif;
+  color:#333; 
+} 
+table.grey th { 
+  background: #eee;
+  font-weight: bold;
+} 
+table.grey td { 
+  background: #fff; 
+  vertical-align: top;
+  text-align: left;
+}
+table.grey td.subheader { 
+  background: #eee;
+  font-weight: bold;
+}
+table.grey caption {
+  display: none;
+}
+table.greynoalign { 
+  background: #999;
+  font: 12px/16px verdana, arial, helvetica, sans-serif;
+  color:#333; 
+} 
+table.greynoalign th { 
+  background: #eee;
+  font-weight: bold;
+} 
+table.greynoalign td { 
+  background: #fff;
+}
+table.greynoalign td.subheader { 
+  background: #eee;
+  font-weight: bold;
+}
+table.greynoalign caption {
+  display: none;
+}
+LI {
+ margin-bottom: 6px;
+}
+  
+UL.nobullet, UL.nobulletspaced {
+ padding: 0;
+ margin: 0;
+}
+UL.nobullet li
+{
+ margin-bottom: 8px;
+ list-style: none;
+}
+UL.nobulletspaced li {
+ margin-bottom: 12px;
+ list-style: none;
+}
+OL.nobullet {
+ padding: 0 0 0 3em;
+ margin: 0;
+}
+OL.nobullet li
+{
+ margin-bottom: 8px;
+}
+.notice {
+ font: 12px/16px verdana, arial, helvetica, sans-serif;
+ color: #333;
+ background: #F2f2f2;
+ border: 1px dotted #999;
+ margin-top: 10px;
+ padding: 8px;
+}
+.rednotice {
+ font: 12px/16px verdana, arial, helvetica, sans-serif;
+ color: #c00;
+ background: #F2f2f2;
+ border: 1px dotted #999;
+ margin-top: 10px;
+ padding: 8px;
+}
+.importantnotice {
+ font: 12px/16px verdana, arial, helvetica, sans-serif;
+ color: #c00;
+ background: #F2f2f2;
+ border: 1px dotted #999;
+ margin-top: 10px;
+ padding: 8px;
+}
+
+/* -------------------- general form elements -------------------------*/
+.formbox {
+ background: #eee;
+ border: 1px solid #999;
+ margin: 10px 0 0 0;
+ padding: 20px;
+ width: auto;
+ text-align:center;
+}
+.formalignbox {
+ text-align:left;
+}
+.formbox .formheader {
+ padding: 6px;
+ background: #ddc;
+ font-weight: bold;
+}
+.formbox td {
+ vertical-align: top;
+}
+.formbox label {
+ font: 12px Verdana, Arial, Helvetica, sans-serif;
+ color: #333;
+}  
+.formbox input {
+ font: 12px Verdana, Arial, Helvetica, sans-serif;
+ color: #333;
+}
+.formbox textarea {
+ font: 12px Verdana, Arial, Helvetica, sans-serif;
+ color: #333;
+}
+.formbox select {
+ font: 12px Verdana, Arial, Helvetica, sans-serif;
+ color: #333;
+}
+#formerrormessage {
+ color: #c00;
+}
+span.req {
+ font: 10px Verdana, Arial, Helvetica, sans-serif;
+ color: #c00;
+ vertical-align: top;
+}
+
+/* ----------- expandable menus --------------*/
+
+#menu {
+ padding: 0;
+ margin-right: 0px;
+ width: 150px;
+ color: #333;
+ font-family: verdana, arial, sans-serif;
+ font-size : 11px;
+ vertical-align: middle;
+ background-color: #fff;
+}
+#menu ul {
+ padding: 0;
+ margin: 0 0 0 -24px;
+}
+#menu li {
+ margin: 0px;
+ list-style:circle;
+  font-size : 11px;
+}
+#menu li a {
+ padding: 3px 0 4px 0;
+ color: #333;
+ text-decoration: none;
+}
+/* ----------------------------------------------------------------------------- */
+/* breadcrumbs */
+
+#breadcrumbs {
+  margin-bottom: 10px;
+}
+#breadcrumbs, #breadcrumbs A, #breadcrumbs A  {
+  font: 11px Arial, Helvetica, sans-serif;
+  text-decoration: none;
+}
+#breadcrumbs A:visited {
+  color: #03c;
+}
+#breadcrumbs A:hover {
+  color: #03c;
+  text-decoration: underline;
+}
+
+/* ----------------------------------------------------------------------------- */
+
+/* ***************************************************************************** */
+/* SUBSITE HOMEPAGE STYLES - from unimelb homepage layout*/
+/* ***************************************************************************** */
+
+.homeunit {
+  margin: 0 0 20px 0;
+  padding: 0 12px 12px 0; 
+} 
+
+.homebutton h2
+{
+ color: #113a70;
+ margin: 0 0 0 3px;
+ padding: 0;
+ font-size: 12px;
+}
+
+.homebutton h2 a
+{
+ color: #03c;
+ margin: 0;
+ text-decoration: none;
+}
+
+.homebutton h2 a:hover
+{
+ color: #c00;
+ text-decoration: underline;
+}
+
+.homebutton ul
+{
+ margin: 0 0 0 -18px;
+ padding: 0;
+}
+
+.homelinks li
+{
+ padding: 0;
+ margin: 0;
+ font-size: 11px;
+}
+
+.homelinks a
+{
+ padding: 0;
+ margin: 0;
+ text-decoration: none;
+ font-size: 11px;
+}
+
+.homelinks a:hover
+{
+ color: #c00;
+ text-decoration: underline;
+}
+
+.featlink, .featlink a
+{
+ font-size: 10px;
+ text-decoration: none;
+}
+
+.homeboxtable 
+{ 
+ margin: 0 0 0 0;
+ background-image: url(/template-assets/images/homebox_bg.gif);
+ background-repeat: repeat;
+}
+
+.homebox 
+{
+ background-image: url(/template-assets/images/homebox_bg.gif);
+ background-repeat: repeat;
+}
+
+#content .homebox A, #content .homebox A:visited
+{
+ color: #fff;
+ text-decoration: none;
+ font-family: Verdana, Arial, Helvetica, sans-serif;
+ font-size: 12px;
+ font-weight: bold; 
+}
+
+#content .homebox A:hover
+{
+ color: #eef587;
+ text-decoration: underline;
+}
+
+.homeboxnav, #content .homeboxnav A:link,  #content .homeboxnav A:visited
+{
+ color: #fff;
+ text-decoration: none;
+ font-family: Verdana, Arial, Helvetica, sans-serif;
+ font-size: 11px;
+ font-weight: bold; 
+}
+
+#content .homeboxnav A:hover
+{
+ color: #eef587;
+ text-decoration: underline;
+}
+
+.rightboxedge
+{
+ background-image: url(/template-assets/images/homebox_bg_r.gif);
+ background-repeat: repeat-y;
+}
+
+td img.block 
+{
+ display: block;
+}
+
+.lwrboxedge
+{
+ background-image: url(/template-assets/images/homebox_bg_b.gif);
+ background-repeat: repeat-x;
+} 
+ 
+.printonly { display: none; }
+
+/* START STYLES FOR THE COMMERCE TEMPLATE */
+
+.stripedtable {
+ border: 1px solid #666;
+}
+
+.stripedtable tr td {
+ font-family: verdana, arial, sans-serif;
+ font-size: 11px;
+ padding: 2px 6px;
+ border-left: 1px solid #D9D9D9;
+}
+ 
+.stheader th, .stheader td {
+ background-color: #ddd;
+ color: #000;
+ font-weight: bold;
+ padding: 2px 6px;
+ border-bottom: 1px solid #999;
+}
+ 
+.stheader td {
+ border-top: 1px solid #999;
+}
+
+.producttable {
+ border: 1px solid #666;
+ vertical-align: top;
+ padding: 10px 10px;
+}
+
+.producttable td
+{
+ border-bottom: 2px dotted #E6E698;
+}
+
+.producttable td img
+{
+ margin: 0 5px 5px 5px;
+}
+
+.productlisttable {
+ border: 1px solid #666;
+ background: #f0f0f0;
+ vertical-align: top;
+ padding: 10px 4px;
+}
+
+.productlisttable li {
+ font-size: 11px;
+}
+
+/* This controls the color and behaviour of links within the productlisttable table */
+.productlisttable A:link
+{
+ font-size: 11px;
+ color: #03c;
+ text-decoration: none;
+}
+
+.productlisttable A:visited
+{
+ color: #606;
+ text-decoration: none;
+}
+
+.productlisttable A:hover
+{
+ color: #c00;
+ text-decoration: underline;
+}
+
+.productlisttable A:active
+{
+ color: #600;
+ text-decoration: underline;
+}
+
+table caption {
+  display: none;
+}
+
+tr.ruled{
+ background:#bbe6fc; /*9cf*/
+} 
+
+.producttable input {
+ border: solid 1px #7898B5;
+ width: 250px;
+}
+.producttable textarea {
+ border: solid 1px #7898B5;
+ width: 250px;
+}
+.producttable select {
+ border: solid 1px #7898B5;
+ width: 250px;
+}
+.producttable input.formbutton {
+ margin-top: 10px;
+ font: 12px Verdana, Arial, Helvetica, sans-serif;
+ color: #333;
+ border: solid 1px #7898b5;
+ width: auto;
+}
+
+/* END STYLES FOR THE COMMERCE TEMPLATE */
+
+/* START INTERNAL STYLES */
+
+.internallogocell
+{
+ width: 105px;
+ height: 76px;
+ background-color: #113a70;
+}
+
+#itop
+{
+ padding: 0;
+ margin: 0;
+ background-color: #113a70;
+}
+
+.topcell
+{
+ padding: 0;
+ margin: 0;
+ background-color: #113a70;
+}
+
+#itop table
+{
+ padding: 0;
+ margin: 0;
+}
+
+.internalsecondnav
+{
+ background: #ccc;
+ margin: 0;
+ padding: 0;
+ color: #336;
+ font-family: Verdana, Arial, Helvetica, sans-serif;
+ font-size: 11px;
+ font-weight: bold;
+}
+
+.internalsecondnav a
+{
+ color: #039;
+ text-decoration: none;
+}
+
+.internalsecondnav a:hover
+{
+ color: #c30;
+ text-decoration: underline;
+}
+
+.searchboxtable
+{
+ margin: 0;
+ padding: 0;
+ background: #586d9d;
+}
+
+.searchnav, .searchnav A
+{
+ color: #fff;
+ text-decoration: none;
+ font-family: Verdana, Arial, Helvetica, sans-serif;
+ font-size: 10px;
+ font-weight: bold;
+}
+
+.searchnav A:hover
+{
+ color: #fef485;
+ text-decoration: underline;
+ background: none;
+}
+
+.contentboxcell
+{
+ background: #fff;
+}
+
+.boxtable 
+{ 
+ margin: 0 0 10px 0;
+}
+
+.boxheader 
+{ 
+ padding: 4px 0 0 0;
+ margin: 0;
+ background: #808080 url(/template-assets/images/header_bg.gif) no-repeat; 
+}
+
+.boxheaderleft 
+{ 
+ background: #808080 url(/template-assets/images/header_tl.gif) no-repeat top left; 
+}
+
+.boxheaderright 
+{ 
+ background: #808080 url(/template-assets/images/header_tr.gif) no-repeat top right; 
+}
+
+td.boxheader h2
+{
+ color: #fff;
+ padding: 0;
+ margin: 0 0 4px 6px;
+ font-size: 12px;
+ font-family: Verdana, Arial, Helvetica, sans-serif; 
+}
+
+.boxcell
+{
+ background: #fff;
+ border-right: solid 1px #666;
+ border-bottom: solid 1px #666;
+ border-left: solid 1px #666;
+ padding: 10px 8px 10px 8px;
+}
+
+/* END INTERNAL STYLES */
